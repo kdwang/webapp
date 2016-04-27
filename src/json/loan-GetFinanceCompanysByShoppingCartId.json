@@ -1,0 +1,891 @@
+{
+  "success": true,
+  "result": {
+    "carPirce": 279900.00,
+    "list": [
+      {
+        "companyName": "中国建设银行",
+        "financeCompanySysNo": 1,
+        "displayOrder": 1,
+        "isDefault": true,
+        "products": [
+          {
+            "financeProductSysNo": 1,
+            "productSysId": 1,
+            "downPaymentRate": 0.3,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": true
+          },
+          {
+            "financeProductSysNo": 2,
+            "productSysId": 2,
+            "downPaymentRate": 0.3,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 3,
+            "productSysId": 3,
+            "downPaymentRate": 0.3,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 4,
+            "productSysId": 4,
+            "downPaymentRate": 0.4,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 5,
+            "productSysId": 5,
+            "downPaymentRate": 0.4,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 6,
+            "productSysId": 6,
+            "downPaymentRate": 0.4,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 7,
+            "productSysId": 7,
+            "downPaymentRate": 0.5,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 8,
+            "productSysId": 8,
+            "downPaymentRate": 0.5,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 9,
+            "productSysId": 9,
+            "downPaymentRate": 0.5,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 10,
+            "productSysId": 10,
+            "downPaymentRate": 0.6,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 11,
+            "productSysId": 11,
+            "downPaymentRate": 0.6,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 12,
+            "productSysId": 12,
+            "downPaymentRate": 0.6,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 13,
+            "productSysId": 13,
+            "downPaymentRate": 0.7,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 14,
+            "productSysId": 14,
+            "downPaymentRate": 0.7,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 15,
+            "productSysId": 15,
+            "downPaymentRate": 0.7,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 16,
+            "productSysId": 16,
+            "downPaymentRate": 0.8,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 17,
+            "productSysId": 17,
+            "downPaymentRate": 0.8,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 18,
+            "productSysId": 18,
+            "downPaymentRate": 0.8,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          }
+        ],
+        "description": "<div class=\"bankinfo\">\n<p>1、在本市有常住户口；或非本市常住户口的在本市拥有本人名下房产；或还款能力充足。</p>\n<p>2、有正当的职业和合法稳定的收入，月收入须为月还款额两倍（可加亲属），能够提供建行认可的收入证明。</p>\n<p>3、首付比例30%起，购车分期额度最高可达50万，最长分36期还款。</p>\n<p>4、手续费一次性收取，高效便捷。</p>\n<p>5、具有良好的信用记录和还款意愿。</p>\n<p>6、需要购买覆盖贷款期限的车损险，保险受益人为建设银行。</p>\n</div>",
+        "logoUrl": "http://image.yaomaiche.com/mkt/Original/2015/0717/e2a966f5-d218-4f2d-bf01-1686df0bfd04.jpg",
+        "logoPath": "http://image.yaomaiche.com/mkt/Original/2015/0717/e2a966f5-d218-4f2d-bf01-1686df0bfd04.jpg"
+      },
+      {
+        "companyName": "南京银行",
+        "financeCompanySysNo": 4,
+        "displayOrder": 2,
+        "isDefault": false,
+        "products": [
+          {
+            "financeProductSysNo": 193,
+            "productSysId": 193,
+            "downPaymentRate": 0.0,
+            "loanTerm": 12,
+            "interestRate": 0.045,
+            "productDescription": "一年4.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 194,
+            "productSysId": 194,
+            "downPaymentRate": 0.0,
+            "loanTerm": 24,
+            "interestRate": 0.09,
+            "productDescription": "两年9%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 195,
+            "productSysId": 195,
+            "downPaymentRate": 0.0,
+            "loanTerm": 36,
+            "interestRate": 0.135,
+            "productDescription": "三年13.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 196,
+            "productSysId": 196,
+            "downPaymentRate": 0.0,
+            "loanTerm": 48,
+            "interestRate": 0.18,
+            "productDescription": "四年18%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 197,
+            "productSysId": 197,
+            "downPaymentRate": 0.1,
+            "loanTerm": 12,
+            "interestRate": 0.045,
+            "productDescription": "一年4.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 198,
+            "productSysId": 198,
+            "downPaymentRate": 0.1,
+            "loanTerm": 24,
+            "interestRate": 0.09,
+            "productDescription": "两年9%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 199,
+            "productSysId": 199,
+            "downPaymentRate": 0.1,
+            "loanTerm": 36,
+            "interestRate": 0.135,
+            "productDescription": "三年13.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 200,
+            "productSysId": 200,
+            "downPaymentRate": 0.1,
+            "loanTerm": 48,
+            "interestRate": 0.18,
+            "productDescription": "四年18%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 201,
+            "productSysId": 201,
+            "downPaymentRate": 0.2,
+            "loanTerm": 12,
+            "interestRate": 0.045,
+            "productDescription": "一年4.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 202,
+            "productSysId": 202,
+            "downPaymentRate": 0.2,
+            "loanTerm": 24,
+            "interestRate": 0.09,
+            "productDescription": "两年9%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 203,
+            "productSysId": 203,
+            "downPaymentRate": 0.2,
+            "loanTerm": 36,
+            "interestRate": 0.135,
+            "productDescription": "三年13.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 204,
+            "productSysId": 204,
+            "downPaymentRate": 0.2,
+            "loanTerm": 48,
+            "interestRate": 0.18,
+            "productDescription": "四年18%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 205,
+            "productSysId": 205,
+            "downPaymentRate": 0.3,
+            "loanTerm": 12,
+            "interestRate": 0.045,
+            "productDescription": "一年4.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 206,
+            "productSysId": 206,
+            "downPaymentRate": 0.3,
+            "loanTerm": 24,
+            "interestRate": 0.09,
+            "productDescription": "两年9%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 207,
+            "productSysId": 207,
+            "downPaymentRate": 0.3,
+            "loanTerm": 36,
+            "interestRate": 0.135,
+            "productDescription": "三年13.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 208,
+            "productSysId": 208,
+            "downPaymentRate": 0.3,
+            "loanTerm": 48,
+            "interestRate": 0.18,
+            "productDescription": "四年18%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 209,
+            "productSysId": 209,
+            "downPaymentRate": 0.4,
+            "loanTerm": 12,
+            "interestRate": 0.045,
+            "productDescription": "一年4.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 210,
+            "productSysId": 210,
+            "downPaymentRate": 0.4,
+            "loanTerm": 24,
+            "interestRate": 0.09,
+            "productDescription": "两年9%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 211,
+            "productSysId": 211,
+            "downPaymentRate": 0.4,
+            "loanTerm": 36,
+            "interestRate": 0.135,
+            "productDescription": "三年13.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 212,
+            "productSysId": 212,
+            "downPaymentRate": 0.4,
+            "loanTerm": 48,
+            "interestRate": 0.18,
+            "productDescription": "四年18%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 213,
+            "productSysId": 213,
+            "downPaymentRate": 0.5,
+            "loanTerm": 12,
+            "interestRate": 0.045,
+            "productDescription": "一年4.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 214,
+            "productSysId": 214,
+            "downPaymentRate": 0.5,
+            "loanTerm": 24,
+            "interestRate": 0.09,
+            "productDescription": "两年9%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 215,
+            "productSysId": 215,
+            "downPaymentRate": 0.5,
+            "loanTerm": 36,
+            "interestRate": 0.135,
+            "productDescription": "三年13.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 216,
+            "productSysId": 216,
+            "downPaymentRate": 0.5,
+            "loanTerm": 48,
+            "interestRate": 0.18,
+            "productDescription": "四年18%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 217,
+            "productSysId": 217,
+            "downPaymentRate": 0.6,
+            "loanTerm": 12,
+            "interestRate": 0.045,
+            "productDescription": "一年4.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 218,
+            "productSysId": 218,
+            "downPaymentRate": 0.6,
+            "loanTerm": 24,
+            "interestRate": 0.09,
+            "productDescription": "两年9%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 219,
+            "productSysId": 219,
+            "downPaymentRate": 0.6,
+            "loanTerm": 36,
+            "interestRate": 0.135,
+            "productDescription": "三年13.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 220,
+            "productSysId": 220,
+            "downPaymentRate": 0.6,
+            "loanTerm": 48,
+            "interestRate": 0.18,
+            "productDescription": "四年18%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 221,
+            "productSysId": 221,
+            "downPaymentRate": 0.7,
+            "loanTerm": 12,
+            "interestRate": 0.045,
+            "productDescription": "一年4.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 222,
+            "productSysId": 222,
+            "downPaymentRate": 0.7,
+            "loanTerm": 24,
+            "interestRate": 0.09,
+            "productDescription": "两年9%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 223,
+            "productSysId": 223,
+            "downPaymentRate": 0.7,
+            "loanTerm": 36,
+            "interestRate": 0.135,
+            "productDescription": "三年13.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 224,
+            "productSysId": 224,
+            "downPaymentRate": 0.7,
+            "loanTerm": 48,
+            "interestRate": 0.18,
+            "productDescription": "四年18%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 225,
+            "productSysId": 225,
+            "downPaymentRate": 0.8,
+            "loanTerm": 12,
+            "interestRate": 0.045,
+            "productDescription": "一年4.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 226,
+            "productSysId": 226,
+            "downPaymentRate": 0.8,
+            "loanTerm": 24,
+            "interestRate": 0.09,
+            "productDescription": "两年9%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 227,
+            "productSysId": 227,
+            "downPaymentRate": 0.8,
+            "loanTerm": 36,
+            "interestRate": 0.135,
+            "productDescription": "三年13.5%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 228,
+            "productSysId": 228,
+            "downPaymentRate": 0.8,
+            "loanTerm": 48,
+            "interestRate": 0.18,
+            "productDescription": "四年18%",
+            "isDefault": false
+          }
+        ],
+        "description": "<div class=\"bankinfo\">\n<p>1、年龄18至60周岁之间（包括贷款年限在内），在本市有固定住所，稳定、合法的职业和收入来源的客户。</p>\n<p>2、个人税后月收入3000元以上，社保连续缴纳一年以上；或经营稳定发展的企业（本地户籍2年，外地户籍3年以上），拥有上海房产。</p>\n<p>3、零首付，额度高，最高额度可达50万，最长可分48期还款。</p>\n<p>4、一年费用收取的百分比如上所示，且该费用为分期收取；另上面展示的费用百分比为最优百分比，具体费用根据客户实际情况确定。</p>\n<p>5、具有良好的信用记录和还款意愿，负债低。</p>\n<p>6、无抵押、无担保，不限车牌，不强制保险。</p>\n</div>",
+        "logoUrl": "http://image.yaomaiche.com/mkt/Original/2015/0717/0752ef09-3481-4311-93bd-d328af223328.jpg",
+        "logoPath": "http://image.yaomaiche.com/mkt/Original/2015/0717/0752ef09-3481-4311-93bd-d328af223328.jpg"
+      },
+      {
+        "companyName": "中国银行",
+        "financeCompanySysNo": 2,
+        "displayOrder": 3,
+        "isDefault": false,
+        "products": [
+          {
+            "financeProductSysNo": 37,
+            "productSysId": 37,
+            "downPaymentRate": 0.3,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 38,
+            "productSysId": 38,
+            "downPaymentRate": 0.3,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 39,
+            "productSysId": 39,
+            "downPaymentRate": 0.3,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 40,
+            "productSysId": 40,
+            "downPaymentRate": 0.4,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 41,
+            "productSysId": 41,
+            "downPaymentRate": 0.4,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 42,
+            "productSysId": 42,
+            "downPaymentRate": 0.4,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 43,
+            "productSysId": 43,
+            "downPaymentRate": 0.5,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 44,
+            "productSysId": 44,
+            "downPaymentRate": 0.5,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 45,
+            "productSysId": 45,
+            "downPaymentRate": 0.5,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 46,
+            "productSysId": 46,
+            "downPaymentRate": 0.6,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 47,
+            "productSysId": 47,
+            "downPaymentRate": 0.6,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 48,
+            "productSysId": 48,
+            "downPaymentRate": 0.6,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 49,
+            "productSysId": 49,
+            "downPaymentRate": 0.7,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 50,
+            "productSysId": 50,
+            "downPaymentRate": 0.7,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 51,
+            "productSysId": 51,
+            "downPaymentRate": 0.7,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 52,
+            "productSysId": 52,
+            "downPaymentRate": 0.8,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 53,
+            "productSysId": 53,
+            "downPaymentRate": 0.8,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 54,
+            "productSysId": 54,
+            "downPaymentRate": 0.8,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          }
+        ],
+        "description": "<div class=\"bankinfo\">\n<p>1、年龄18至65周岁之间，在本市有固定住所，稳定、合法的职业和收入来源的客户。</p>\n<p>2、在本市拥有本人名下房产，或有合法稳定的收入且有按期还款的能力（收入为月还款额的两倍）。</p>\n<p>3、首付比例30%起，购车分期信用额度最高可达30万，抵押额度最高可达80万，最长分36期还款。</p>\n<p>4、申请车辆范围为一手自用非营运类车辆。</p>\n<p>5、手续费一次性收取，高效便捷。</p>\n<p>6、具有良好的信用记录和还款意愿。</p>\n<p>7、需要购买覆盖贷款期限的车损和第三者险，保险受益人为中国银行。</p>\n</div>",
+        "logoUrl": "http://image.yaomaiche.com/mkt/Original/2015/0720/2a65b4b9-10bf-4d30-b74b-93cf5fff8de9.jpg",
+        "logoPath": "http://image.yaomaiche.com/mkt/Original/2015/0720/2a65b4b9-10bf-4d30-b74b-93cf5fff8de9.jpg"
+      },
+      {
+        "companyName": "浦发银行",
+        "financeCompanySysNo": 7,
+        "displayOrder": 4,
+        "isDefault": false,
+        "products": [
+          {
+            "financeProductSysNo": 445,
+            "productSysId": 445,
+            "downPaymentRate": 0.2,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 446,
+            "productSysId": 446,
+            "downPaymentRate": 0.2,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 447,
+            "productSysId": 447,
+            "downPaymentRate": 0.2,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 448,
+            "productSysId": 448,
+            "downPaymentRate": 0.3,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 449,
+            "productSysId": 449,
+            "downPaymentRate": 0.3,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 450,
+            "productSysId": 450,
+            "downPaymentRate": 0.3,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 451,
+            "productSysId": 451,
+            "downPaymentRate": 0.4,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 452,
+            "productSysId": 452,
+            "downPaymentRate": 0.4,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 453,
+            "productSysId": 453,
+            "downPaymentRate": 0.4,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 454,
+            "productSysId": 454,
+            "downPaymentRate": 0.5,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 455,
+            "productSysId": 455,
+            "downPaymentRate": 0.5,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 456,
+            "productSysId": 456,
+            "downPaymentRate": 0.5,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 457,
+            "productSysId": 457,
+            "downPaymentRate": 0.6,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 458,
+            "productSysId": 458,
+            "downPaymentRate": 0.6,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 459,
+            "productSysId": 459,
+            "downPaymentRate": 0.6,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 460,
+            "productSysId": 460,
+            "downPaymentRate": 0.7,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 461,
+            "productSysId": 461,
+            "downPaymentRate": 0.7,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 462,
+            "productSysId": 462,
+            "downPaymentRate": 0.7,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 463,
+            "productSysId": 463,
+            "downPaymentRate": 0.8,
+            "loanTerm": 12,
+            "interestRate": 0.04,
+            "productDescription": "一年4%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 464,
+            "productSysId": 464,
+            "downPaymentRate": 0.8,
+            "loanTerm": 24,
+            "interestRate": 0.08,
+            "productDescription": "两年8%",
+            "isDefault": false
+          },
+          {
+            "financeProductSysNo": 465,
+            "productSysId": 465,
+            "downPaymentRate": 0.8,
+            "loanTerm": 36,
+            "interestRate": 0.12,
+            "productDescription": "三年12%",
+            "isDefault": false
+          }
+        ],
+        "description": "<div class=\"bankinfo\">\n<p>1、年龄18至60周岁之间，具有中国国籍的自然人，在本市有固定住所，稳定、合法的职业和收入来源的客户。</p>\n<p>2、在本市拥有本人名下房产，或有合法稳定的收入、银行工资流水税后4500元以上、连续缴纳社保两年以上且有按期还款的能力。</p>\n<p>3、首付比例20%起，购车分期信用额度最高可达34.9万，最长分36期还款。贷款金额35万及以上的，需办理抵押，贷款比例最高达70%。</p>\n<p>4、手续费一次性收取，高效便捷。</p>\n<p>5、可以上配偶的牌照。</p>\n<p>6、具有良好的信用记录和还款意愿。</p>\n<p>7、需要购买覆盖贷款首年的交通强制险、盗抢险、车损险、第三者责任险（至少20万），保险受益人为浦发银行上海分行。</p>\n</div>",
+        "logoUrl": "http://image.yaomaiche.com/mkt/Original/2015/0810/78db197a-4bc3-432c-bc0f-1eee012ea29d.png",
+        "logoPath": "http://image.yaomaiche.com/mkt/Original/2015/0810/78db197a-4bc3-432c-bc0f-1eee012ea29d.png"
+      }
+    ]
+  },
+  "error": null,
+  "unAuthorizedRequest": false
+}

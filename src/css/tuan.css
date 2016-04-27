@@ -1,0 +1,323 @@
+.vtuan .iclick:active{
+	background-color: #9B0117;
+}
+.vtuan .ituan, .car_logo_arr{
+	display: inline-block;
+	overflow: hidden;
+	background-repeat: no-repeat;
+}
+.vtuan .ituan{
+	background-image: url(../imgs/ico_index.png);
+	background-size:  320px 244px;
+}
+.vtuan .ituan-hot{
+	width: 24px;
+	height: 24px;
+	background-position: right -180px;
+	background-size: 480px 366px;
+}
+.vtuan .car_logo_arr{
+	background-image: url(../imgs/arr.png);
+	background-size: 20px 40px;
+}
+.vtuan .car_logo_arr-next{
+	background-position: 0 -20px;
+}
+.vtuan .t_gray{color: #ccc;}
+.vtuan .cff4c66{color: #ff4c66;}
+
+.vtuan .btm-hd,.tuan-status-hd, .tuan-btn-panel{
+	position: relative;
+    height: 40px;
+    font-size: 16px;
+    padding-left: 10px;
+    line-height: 40px;
+    color: #959492;
+    background-color: #fff
+}
+
+.vtuan .btm-hd li a {
+    display: block;
+    width: 100%;
+    height: 100%
+}
+
+.vtuan .btm-hd::before {
+	content: '';
+    position: absolute;
+    left: 0;
+    top:0;
+    width: 3px;
+    height: 40px;
+    background-color: #f1324e
+}
+
+.vtuan .btm-hd .btm-hd-more,
+.vtuan .tuan-status-hd .btm-hd-more {
+    position: absolute;
+    height: 40px;
+    top: 0;
+    right: 7px;
+    color: #666;
+    font-size: 14px
+}
+.vtuan .btm-hd.btm-hd-c{
+	text-align: center;
+}
+.vtuan .btm-hd.btm-hd-c::before{
+	content: initial;
+}
+.vtuan .tuan-status-hd{
+	padding-left: 15px;
+	color: #f1324e;
+}
+.vtuan .tuan-status-hd .btm-hd-more{
+	right: 20px;
+	color: #555;
+}
+.vtuan .tuan-btn-panel .btn{
+	position: absolute;
+	right: 20px;
+	top: 5px;
+	height: 28px;
+	margin: 0;
+	font-size: 14px;
+	line-height: 28px;
+	color: #666;
+	border-color: #B3B3B3;
+}
+.vtuan .tuan-btn-panel .btn2{
+	color: #e3a716;
+	border-color: #F9C524;
+}
+
+.vtuan .car_logo_outer_wrap {
+    position: relative;
+    margin: 10px 0;
+    overflow: hidden;
+    height: 141px;
+    -webkit-transition: all .3s ease-out;
+    -ms-transition: all .3s ease-out;
+    transition: all .3s ease-out
+}
+.vtuan .car_logo_wrap-view{
+	position: relative;
+}
+.vtuan .car_logo_wrap {
+	height: 100px;
+	border-top: 1px solid #E4E4E4;
+	background-color: #fff;
+    -webkit-transition: all .3s ease-out;
+    -ms-transition: all .3s ease-out;
+    transition: all .3s ease-out
+}
+.vtuan .car_logo_sec{
+	float: left;
+	height: 100px;
+	width: 100%;
+	overflow: hidden;
+}
+.vtuan .car_logo_wrap-view .car_logo_arr{
+	position: absolute;
+	top: 50%;
+	width: 20px;
+	height: 20px;
+	margin-top: -10px;
+	line-height: 20px;
+	font-size: 20px;
+	text-align: center;
+	color: #C2C2C2;
+}
+.vtuan .car_logo_wrap-view .car_logo_arr-prev{
+	display: none;
+	left: 0;
+}
+.vtuan .car_logo_wrap-view .car_logo_arr-next{
+	right: 0;
+}
+.vtuan .car_logo_fix {
+    position: fixed;
+    top: 51px;
+    z-index: 1000;
+    width: 100%;
+    left: 0;
+    border-bottom: 1px solid #E4E4E4;
+}
+
+.vtuan .car_logo {
+    position: relative;
+    overflow: hidden;
+    float: left;
+    width: 20%;
+    height: 50px;
+    line-height: 50px;
+    /*border-top: 1px solid #f1f1f1;*/
+    background-color: #fff;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+.vtuan .car_logo.car_logo-on{
+    border: 1px solid #fdd600;
+}
+.vtuan .car_logo img {
+    width: 55px;
+    vertical-align: -13px
+}
+
+.vtuan .car_logo:not(:nth-child(5n+1)) {
+    /*border-left: 1px solid #f1f1f1*/
+}
+
+.vtuan .txt-tuan{
+    position: relative;
+    display: inline-block;
+    font-weight: normal;
+    color: #fff;
+}
+.vtuan .txt-tuan::before{
+    content: '';
+    position: absolute;
+    width: 0;
+    height: 0;
+    font-size: 0;
+    border: 4px solid rgba(255,255,255,0);
+}
+.vtuan .txt-tuan2{
+    height: 16px;
+    margin-left: 4px;
+    padding: 0 4px;
+    font-size: 12px;
+    line-height: 16px;
+    background-color: #fe6863;
+    border-radius: 2px;
+}
+.vtuan .txt-tuan2::before{
+    top: 4px;
+    left: -8px;
+    border-right-color: #fe6863;
+}
+
+.vtuan .tuanCar{
+	margin: 10px 0;
+}
+.vtuan .tuanCon{
+	border-top: 1px solid #E4E4E4;
+}
+.vtuan .tuanCon .tuan-prodinfo{
+	position: relative;
+	min-height: 100px;
+	padding: 6px;
+	border-bottom: 1px solid #E4E4E4;
+	overflow: hidden;
+	background-color: #fff;
+}
+.vtuan .tuan-prodinfo .ituan-hot{
+	position: absolute;
+	top: 0;
+	right: 0;
+}
+.vtuan .tuan-prodinfo .tuan-sec-left{
+	position: absolute;
+	top: 6px;
+	left: 6px;
+	width: 31.25%;
+	height: 100px;
+	overflow: hidden;
+}
+.vtuan .tuan-sec-left .tuan-prod-img{
+    display: block;
+	max-width: 100%;
+    height: 100%;
+    margin: 0 auto;
+}
+.vtuan .tuan-sec-left .tuan-countdown{
+	position: absolute;
+	bottom: 0;
+	left: 0;
+	right: 0;
+	height: 20px;
+	line-height: 20px;
+	font-size: 12px;
+	text-align: center;
+}
+.vtuan .tuan-sec-left .tuan-countdown-1{
+	color: #855706;
+	background-color: #fdd600;
+}
+.vtuan .tuan-sec-left .tuan-countdown-2{
+	color: #fff;
+	background-color: #434652;
+}
+.vtuan .tuan-prodinfo .tuan-sec-main{
+	margin-left: 34.5%;
+	font-size: 12px;
+	color: #999;
+}
+.vtuan .tuan-sec-main .tuan-cartitle{
+	height: 40px;
+	font-size: 16px;
+	font-weight: normal;
+	color: #444;
+	line-height: 20px;
+	overflow: hidden;
+}
+.vtuan .tuan-sec-main .tuan-ison{
+	margin: 4px 0 6px;
+}
+.vtuan .tuan-sec-main .tuan-price{
+	line-height: 16px;
+}
+.vtuan .tuan-price del{
+	color: #ccc;
+}
+.vtuan .tuan-price del + del{
+	margin-left: 8px;
+}
+.vtuan .tuan-price .txt-price{
+	font-size: 20px;
+}
+.vtuan .tuan-price .txt-tuan{
+	vertical-align: 3px;
+}
+/*团购订单*/
+.vtuan .tuan-bill{
+	margin: 10px 0;
+	border-top: 1px solid #E4E4E4;
+	border-bottom: 1px solid #E4E4E4;
+}
+.vtuan .tuan-bill .tuan-prodinfo{
+	position: relative;
+	min-height: 90px;
+	padding: 6px 0 6px;
+	background-color: #F5F5F5;
+	border-bottom: 1px solid #E4E4E4;
+}
+.vtuan .tuan-bill .tuan-cartitle{
+	width: 100%;
+	height: 18px;
+}
+.vtuan .tuan-bill .tuan-ison{
+	margin: 8px 0;
+}
+.vtuan .tuan-bill .tuan-prodinfo .tuan-sec-left{
+	height: 90px;
+}
+/*tuan's rules*/
+.vtuan .pop-rule p{font-size: 12px;}
+.vtuan .pop-rule p + h3{
+	margin-top: 6px;
+}
+.vtuan .pop-rule ul{
+	padding-left: 2em;
+	font-size: 12px;
+}
+.vtuan .pop-rule ul,
+.vtuan .pop-rule li{
+	list-style-type: decimal;
+}
+.vtuan .pop-rule li{
+	margin-bottom: 3px;
+	line-height: 16px;
+}

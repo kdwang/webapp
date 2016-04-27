@@ -1,0 +1,1739 @@
+{
+  "success": true,
+  "result": [
+    {
+      "sysId": 3,
+      "insuranceCompanySysNo": 3,
+      "fullName": "中国人民财产保险股份有限公司",
+      "briefName": "人保",
+      "isOffsitePurchase": false,
+      "logoPath": "http://image.yaomaiche.com/mkt/Original/2015/0702/9ddd4e1f-c226-4145-bc21-d365651735ba.jpg",
+      "priority": 1,
+      "description": "<div class=\"text\">\r\n\t\t\t\t<p style=\"text-indent: 2em;\">中国人民财产保险股份有限公司（PICC P&C，简称“中国人保”，下同）是经国务院同意、中国保监会批准，于2003年7月由中国人民保险集团公司发起设立的、亚洲最大的财产保险公司，注册资本122.5598亿元。其前身是1949年10月20日经中国人民银行报政务院财经委员会批准成立的中国人民保险公司。世界500强企业。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">中国人保财险是中国人民保险集团公司（PICC）旗下标志性主业，在国内外同业市场享有卓著声誉。2003年11月6日，公司在香港联交所成功挂牌上市，成为中国内地大型国有金融企业海外上市“第一股”。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">凭借综合实力，中国人保财险相继成为北京2008年奥运会、2010年上海世博会保险合作伙伴，为北京奥运会、上海世博会提供全面的保险保障服务。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">客服电话：95518</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">勘察时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">7*24小时全国通赔、专享电子查勘理赔。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">定损时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">估损金额在人民币3000元（含）以下的，在接到报案后1个工作日内定损。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">估损金额超过人民币3000元以上的，3个工作日内定损。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">赔付时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">人民币1万元以下，1个工作日。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">人民币1万-3万元，3个工作日。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">人民币3万-10万元，5个工作日。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">增值服务：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">免费救援 - 不限次数</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">免费拖车（50KM）</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">故障车充电、更换轮胎、充气</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">代办车辆年检</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">酒后代驾 - 一个险期一次</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">机场贵宾服务（持有龙腾卡客户）</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">最终解释权归保险公司所有。</p>\r\n\t\t\t</div>\r\n",
+      "memo": "快、易、多、安、好，理赔快，老牌保险值得信赖",
+      "insuranceFullInfo": {
+        "head": {
+          "company": {
+            "sysNo": "3",
+            "provider": "3",
+            "agent": "3"
+          },
+          "finance": {
+            "bankSysNo": null,
+            "loanPeriod": 12,
+            "beneficiary": "建设银行"
+          },
+          "areaSysNo": "00000000-0000-0000-0000-000000000000",
+          "beneficiary": null,
+          "vehicleCoverage": "498882"
+        },
+        "body": {
+          "packageList": {
+            "package": [
+              {
+                "sysNo": 7,
+                "name": "大众智选",
+                "insuranceType": [
+                  {
+                    "sysNo": 1,
+                    "level": "",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 2,
+                    "level": "100万",
+                    "enabledSDEW": 1
+                  }
+                ],
+                "displayOrder": 1,
+                "description": "中低度保障，对自己的爱车有保障，大部分的交通事故赔偿无忧。 \n适用人群：老司机、神车手、路况良好享有者",
+                "isDefault": true
+              },
+              {
+                "sysNo": 11,
+                "name": "“菜鸟”装备",
+                "insuranceType": [
+                  {
+                    "sysNo": 1,
+                    "level": "",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 2,
+                    "level": "100万",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 4,
+                    "level": "2000",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 6,
+                    "level": "50000",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 7,
+                    "level": "50000",
+                    "enabledSDEW": 1
+                  }
+                ],
+                "displayOrder": 2,
+                "description": "中高度保障，增加对车主和乘客的保障，具备严重交通意外的赔付能力（100万）。适用人群：新手上路、“女”司机、本本族",
+                "isDefault": false
+              }
+            ]
+          },
+          "insuranceTypeList": {
+            "insuranceType": [
+              {
+                "sysNo": 1,
+                "level": null,
+                "enabledSDEW": 0,
+                "isForced": true,
+                "isBuySDEW": true,
+                "purchasePeriod": 1,
+                "fullName": "机动车车辆损失险",
+                "briefName": "车损险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 978.19,
+                      "rate": null,
+                      "amount": 6521.287
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 0,
+                "isBasicInsurance": 1,
+                "isDefault": true,
+                "howManyPeopleSelect": "(95%的人会选择)",
+                "description": "<h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>车辆损失险是指保险车辆遭受保险责任范围内的自然灾害(不包括地震)或意外事故，造成保险车辆本身损失，保险人依据保险合同的规定给予赔偿，发生保险事故时，补偿您自己车辆的损失。</p>\r\n            <p>例如发生以下事故，保险公司可以按照条款赔偿您的车辆维修费用：</p>\r\n            <p>\r\n                &bull;车子撞到护栏、柱子等，或被外界物体倒塌/坠落砸坏；<br />\r\n                &bull;您不小心撞了别人车辆，自己的车子受损；<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>95%的用户会购买。该险种性价比高，目前车价10万左右车辆，一两个配件的维修费用可能超过千元。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 2,
+                "level": "100万",
+                "enabledSDEW": 0,
+                "isForced": true,
+                "isBuySDEW": true,
+                "purchasePeriod": 1,
+                "fullName": "第三者责任险",
+                "briefName": "三责险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "100万",
+                      "description": "100万",
+                      "sdewAmount": 253.42,
+                      "rate": null,
+                      "amount": 1689.48
+                    },
+                    {
+                      "level": "50万",
+                      "description": "50万",
+                      "sdewAmount": 194.43,
+                      "rate": null,
+                      "amount": 1296.18
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 2,
+                "isBasicInsurance": 1,
+                "isDefault": true,
+                "howManyPeopleSelect": "(99%的人会选择)",
+                "description": " <h2 style='border-top:0px solid #cccccc'>保险范畴:</h2>\r\n            <p>发生保险事故，保险公司按条款赔偿您对第三方（人或物）造成的损失。</p>\r\n            <p>例如：发生以下事故，如果您负有责任，保险公司按照条款赔偿。</p>\r\n            <p>\r\n                &bull;您不小心撞坏了别人的车<br />\r\n                &bull;您不小心撞到别人造成伤亡<br />\r\n                &bull;交强险最多赔12.2万，显然是杯水车薪。投保了商业第三方责任险，交强险赔付不足的部分，由保险公司赔偿。<br />\r\n                &bull;保障越高越好，建议至少选择50-100万的保障额度。<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>99%的用户会购买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 3,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "全车盗抢险",
+                "briefName": "盗抢险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.2",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 370.29,
+                      "rate": null,
+                      "amount": 1851.4309
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 3,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>如果整车发生被偷被盗，保险公司将按条款进行赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>35%的用户会购买。</p>\r\n            <p>若存在以下任一情况，建议购买：</p>\r\n            <p>无固定车库，一般停在露天停车场；</p>\r\n            <p>经常开车出差，无固定停车地点；</p>\r\n            <p>车辆属于被易被盗车险；</p>\r\n            <p>车辆保管和行驶环境治安很差；</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 6,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "司机座位责任险",
+                "briefName": "司机责任险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "50000",
+                      "description": "5万",
+                      "sdewAmount": 26.93,
+                      "rate": null,
+                      "amount": 179.55
+                    },
+                    {
+                      "level": "40000",
+                      "description": "4万",
+                      "sdewAmount": 21.55,
+                      "rate": null,
+                      "amount": 143.64
+                    },
+                    {
+                      "level": "30000",
+                      "description": "3万",
+                      "sdewAmount": 16.16,
+                      "rate": null,
+                      "amount": 107.73
+                    },
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 10.77,
+                      "rate": null,
+                      "amount": 71.82
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 5.39,
+                      "rate": null,
+                      "amount": 35.91
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 1,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": " <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>发生意外事故，造成本车司机的人身伤亡，如果本车负有责任，保险公司将按条款规定进行赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>63%的用户会购买经常开车带家人或朋友，需要保障家人朋友的人身安全，建议购买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 7,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "乘客座位责任险",
+                "briefName": "乘客责任险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "50000",
+                      "description": "5万",
+                      "sdewAmount": 69.26,
+                      "rate": null,
+                      "amount": 461.7
+                    },
+                    {
+                      "level": "40000",
+                      "description": "4万",
+                      "sdewAmount": 55.4,
+                      "rate": null,
+                      "amount": 369.36
+                    },
+                    {
+                      "level": "30000",
+                      "description": "3万",
+                      "sdewAmount": 41.55,
+                      "rate": null,
+                      "amount": 277.02
+                    },
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 27.7,
+                      "rate": null,
+                      "amount": 184.68
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 13.85,
+                      "rate": null,
+                      "amount": 92.34
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 5,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "<h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 4,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "车身划痕损失险",
+                "briefName": "划痕险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 228.29,
+                      "rate": null,
+                      "amount": 1521.9
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 150.05,
+                      "rate": null,
+                      "amount": 1000.35
+                    },
+                    {
+                      "level": "5000",
+                      "description": "5千",
+                      "sdewAmount": 115.43,
+                      "rate": null,
+                      "amount": 769.5
+                    },
+                    {
+                      "level": "2000",
+                      "description": "2千",
+                      "sdewAmount": 75.03,
+                      "rate": null,
+                      "amount": 500.175
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 4,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>无明显碰撞痕迹的车身表面油漆单独划伤，保险公司将负责赔偿。</p>\r\n            <p>·比如您的车停放期间，被人用钥匙、石头划伤了，保险公司按条款负责赔偿您的维修费用。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>8%的用户会购买，适用于新车及新手</p>\r\n            <p>在使用过程中，被他人剐划(无明显碰撞痕迹)需要修复的费用，这类维修费用不在车损险理赔涵盖范围内，一般新车、新手买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 5,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "玻璃单独破碎险",
+                "briefName": "玻璃破碎险",
+                "premiumInfo": {
+                  "hasSDEW": 0,
+                  "sdewRatio": "0",
+                  "premium": [
+                    {
+                      "level": "进口玻璃",
+                      "description": "进口玻璃",
+                      "sdewAmount": 0.0,
+                      "rate": "0.0031",
+                      "amount": 1322.2867
+                    },
+                    {
+                      "level": "国产玻璃",
+                      "description": "国产玻璃",
+                      "sdewAmount": 0.0,
+                      "rate": "0.0019",
+                      "amount": 810.4338
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 6,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "<h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>如果发生车窗、挡风玻璃的单独破碎，保险公司按实际损失赔偿。比如：</p>\r\n            <p>\r\n                &bull;高速路上行驶被飞石击碎车窗、挡风玻璃；<br />\r\n                &bull;车辆停放被高空坠物砸坏车窗、挡风玻璃。<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>35%的用户会购买若存在以下任一情况，建议购买：</p>\r\n            <p>\r\n                &bull;车辆经常停在露天停车场；<br />\r\n                &bull;车辆停放区域治安不好。<br />\r\n            </p>\r\n            <p>单独玻璃破碎，不属于车辆损失险范围</p>"
+              },
+              {
+                "sysNo": 8,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "车辆自燃损失险",
+                "briefName": "自燃险",
+                "premiumInfo": {
+                  "hasSDEW": 0,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 95.97,
+                      "rate": null,
+                      "amount": 639.8162
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 7,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>因本车电器、线路、油路、供油系统、供气系统、车载货物自身发生问题，机动车运转摩擦起火引起火灾，造成车辆自身的损失，保险公司按条款规定赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>10%的用户会购买。</p>\r\n            <p>若存在以下任一情况，自燃风险较高，建议购买： </p>\r\n            <p>车辆使用超过两年，油路和电路都有所老化；</p>\r\n            <p>年行驶里程超过三万公里；</p>\r\n            <p>公司或单位车子，驾驶员不固定，行驶区域不固定；</p>\r\n            <p>新上市的车型，有可能存在设计缺陷容易自燃。</p>"
+              }
+            ]
+          },
+          "clifmva": {
+            "sysNo": 0,
+            "name": "交强险",
+            "amount": 950.0
+          },
+          "vavt": {
+            "sysNo": 0,
+            "name": "车船税",
+            "amount": 75.0
+          }
+        }
+      },
+      "isDefault": true
+    },
+    {
+      "sysId": 1,
+      "insuranceCompanySysNo": 1,
+      "fullName": "中国太平洋保险（集团）股份有限公司",
+      "briefName": "太平洋",
+      "isOffsitePurchase": false,
+      "logoPath": "http://image.yaomaiche.com/mkt/Original/2015/0702/0a1ea6ed-513c-4f27-97f8-1a037ed321f1.jpg",
+      "priority": 2,
+      "description": "<div class=\"text\">\r\n\t\t\t\t<p style=\"text-indent: 2em;\">中国太平洋保险（A股：601601、H股：02601），又称太平洋保险，简称中国太保或太保，前身是中国太平洋保险公司，成立于1991年5月13日，是经中国人民银行批准设立的全国性股份制商业保险公司。2001年，根据中国国务院和中国保监会分业经营机构体制改革的批复，原中国太平洋保险公司更名为“中国太平洋保险（集团）股份有限公司”。太保是中国大陆第二大财产保险公司，仅次于中国财险，也是第三大人寿保险公司，仅次于中国人寿和中国平安。它本身经营多元化保险服务，包括人寿保险、财产保险、再保险等。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">客服电话：95500</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">勘察时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">本地出险：查勘人员15分钟内与报案人取得联系。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">异地出险：查勘人员30分钟内与报案人取得联系。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">定损时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">1万元以下：定损 1 个工作日内完成。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">5万元以下：定损 3 个工作日内完成。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">赔付时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">损失在5000元（含）以下的事故，索赔单证齐全，1天内支付。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">损失在1万元（含）以下的事故，3个工作日内支付。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">损失在1-5万元之间的事故，5个工作日之内通知支付。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">增值服务：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">免费道路救援（不限次数），路边快修、派送燃料、电瓶搭电、更换轮胎、加防冻液、紧急拖车、困境救助、在线故障排除指导、紧急信息传递、驾车医疗救援。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">最终解释权归保险公司所有。</p>\r\n\t\t\t</div>\r\n",
+      "memo": "理赔便捷灵活，十项免费增值服务，最懂你的车险",
+      "insuranceFullInfo": {
+        "head": {
+          "company": {
+            "sysNo": "1",
+            "provider": "1",
+            "agent": "1"
+          },
+          "finance": {
+            "bankSysNo": null,
+            "loanPeriod": 12,
+            "beneficiary": "建设银行"
+          },
+          "areaSysNo": "00000000-0000-0000-0000-000000000000",
+          "beneficiary": null,
+          "vehicleCoverage": "498882"
+        },
+        "body": {
+          "packageList": {
+            "package": [
+              {
+                "sysNo": 5,
+                "name": "大众智选",
+                "insuranceType": [
+                  {
+                    "sysNo": 1,
+                    "level": "",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 2,
+                    "level": "100万",
+                    "enabledSDEW": 1
+                  }
+                ],
+                "displayOrder": 1,
+                "description": "中低度保障，对自己的爱车有保障，大部分的交通事故赔偿无忧。 \n适用人群：老司机、神车手、路况良好享有者",
+                "isDefault": true
+              },
+              {
+                "sysNo": 9,
+                "name": "“菜鸟”装备",
+                "insuranceType": [
+                  {
+                    "sysNo": 1,
+                    "level": "",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 2,
+                    "level": "100万",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 4,
+                    "level": "2000",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 6,
+                    "level": "50000",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 7,
+                    "level": "50000",
+                    "enabledSDEW": 1
+                  }
+                ],
+                "displayOrder": 2,
+                "description": "中高度保障，增加对车主和乘客的保障，具备严重交通意外的赔付能力（100万）。适用人群：新手上路、“女”司机、本本族",
+                "isDefault": false
+              }
+            ]
+          },
+          "insuranceTypeList": {
+            "insuranceType": [
+              {
+                "sysNo": 1,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": true,
+                "isBuySDEW": true,
+                "purchasePeriod": 1,
+                "fullName": "机动车车辆损失险",
+                "briefName": "车损险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 978.19,
+                      "rate": null,
+                      "amount": 6521.287
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 0,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": "(95%的人会选择)",
+                "description": "<h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>车辆损失险是指保险车辆遭受保险责任范围内的自然灾害(不包括地震)或意外事故，造成保险车辆本身损失，保险人依据保险合同的规定给予赔偿，发生保险事故时，补偿您自己车辆的损失。</p>\r\n            <p>例如发生以下事故，保险公司可以按照条款赔偿您的车辆维修费用：</p>\r\n            <p>\r\n                &bull;车子撞到护栏、柱子等，或被外界物体倒塌/坠落砸坏；<br />\r\n                &bull;您不小心撞了别人车辆，自己的车子受损；<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>95%的用户会购买。该险种性价比高，目前车价10万左右车辆，一两个配件的维修费用可能超过千元。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 2,
+                "level": "50万",
+                "enabledSDEW": 0,
+                "isForced": true,
+                "isBuySDEW": true,
+                "purchasePeriod": 1,
+                "fullName": "第三者责任险",
+                "briefName": "三责险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "100万",
+                      "description": "100万",
+                      "sdewAmount": 253.42,
+                      "rate": null,
+                      "amount": 1689.48
+                    },
+                    {
+                      "level": "50万",
+                      "description": "50万",
+                      "sdewAmount": 194.56,
+                      "rate": null,
+                      "amount": 1297.035
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 2,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": "(99%的人会选择)",
+                "description": " <h2 style='border-top:0px solid #cccccc'>保险范畴:</h2>\r\n            <p>发生保险事故，保险公司按条款赔偿您对第三方（人或物）造成的损失。</p>\r\n            <p>例如：发生以下事故，如果您负有责任，保险公司按照条款赔偿。</p>\r\n            <p>\r\n                &bull;您不小心撞坏了别人的车<br />\r\n                &bull;您不小心撞到别人造成伤亡<br />\r\n                &bull;交强险最多赔12.2万，显然是杯水车薪。投保了商业第三方责任险，交强险赔付不足的部分，由保险公司赔偿。<br />\r\n                &bull;保障越高越好，建议至少选择50-100万的保障额度。<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>99%的用户会购买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 3,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "全车盗抢险",
+                "briefName": "盗抢险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.2",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 370.29,
+                      "rate": null,
+                      "amount": 1851.4309
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 3,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>如果整车发生被偷被盗，保险公司将按条款进行赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>35%的用户会购买。</p>\r\n            <p>若存在以下任一情况，建议购买：</p>\r\n            <p>无固定车库，一般停在露天停车场；</p>\r\n            <p>经常开车出差，无固定停车地点；</p>\r\n            <p>车辆属于被易被盗车险；</p>\r\n            <p>车辆保管和行驶环境治安很差；</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 6,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "司机座位责任险",
+                "briefName": "司机责任险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "50000",
+                      "description": "5万",
+                      "sdewAmount": 26.93,
+                      "rate": null,
+                      "amount": 179.55
+                    },
+                    {
+                      "level": "40000",
+                      "description": "4万",
+                      "sdewAmount": 21.55,
+                      "rate": null,
+                      "amount": 143.64
+                    },
+                    {
+                      "level": "30000",
+                      "description": "3万",
+                      "sdewAmount": 16.16,
+                      "rate": null,
+                      "amount": 107.73
+                    },
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 10.77,
+                      "rate": null,
+                      "amount": 71.82
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 5.39,
+                      "rate": null,
+                      "amount": 35.91
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 1,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": " <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>发生意外事故，造成本车司机的人身伤亡，如果本车负有责任，保险公司将按条款规定进行赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>63%的用户会购买经常开车带家人或朋友，需要保障家人朋友的人身安全，建议购买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 7,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "乘客座位责任险",
+                "briefName": "乘客责任险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "50000",
+                      "description": "5万",
+                      "sdewAmount": 69.26,
+                      "rate": null,
+                      "amount": 461.7
+                    },
+                    {
+                      "level": "40000",
+                      "description": "4万",
+                      "sdewAmount": 55.4,
+                      "rate": null,
+                      "amount": 369.36
+                    },
+                    {
+                      "level": "30000",
+                      "description": "3万",
+                      "sdewAmount": 41.55,
+                      "rate": null,
+                      "amount": 277.02
+                    },
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 27.7,
+                      "rate": null,
+                      "amount": 184.68
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 13.85,
+                      "rate": null,
+                      "amount": 92.34
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 5,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "<h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 4,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "车身划痕损失险",
+                "briefName": "划痕险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 228.29,
+                      "rate": null,
+                      "amount": 1521.9
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 150.05,
+                      "rate": null,
+                      "amount": 1000.35
+                    },
+                    {
+                      "level": "5000",
+                      "description": "5千",
+                      "sdewAmount": 115.43,
+                      "rate": null,
+                      "amount": 769.5
+                    },
+                    {
+                      "level": "2000",
+                      "description": "2千",
+                      "sdewAmount": 75.03,
+                      "rate": null,
+                      "amount": 500.175
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 4,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>无明显碰撞痕迹的车身表面油漆单独划伤，保险公司将负责赔偿。</p>\r\n            <p>·比如您的车停放期间，被人用钥匙、石头划伤了，保险公司按条款负责赔偿您的维修费用。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>8%的用户会购买，适用于新车及新手</p>\r\n            <p>在使用过程中，被他人剐划(无明显碰撞痕迹)需要修复的费用，这类维修费用不在车损险理赔涵盖范围内，一般新车、新手买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 5,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "玻璃单独破碎险",
+                "briefName": "玻璃破碎险",
+                "premiumInfo": {
+                  "hasSDEW": 0,
+                  "sdewRatio": "0",
+                  "premium": [
+                    {
+                      "level": "进口玻璃",
+                      "description": "进口玻璃",
+                      "sdewAmount": 0.0,
+                      "rate": "0.0031",
+                      "amount": 1322.2867
+                    },
+                    {
+                      "level": "国产玻璃",
+                      "description": "国产玻璃",
+                      "sdewAmount": 0.0,
+                      "rate": "0.0019",
+                      "amount": 810.4338
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 6,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "<h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>如果发生车窗、挡风玻璃的单独破碎，保险公司按实际损失赔偿。比如：</p>\r\n            <p>\r\n                &bull;高速路上行驶被飞石击碎车窗、挡风玻璃；<br />\r\n                &bull;车辆停放被高空坠物砸坏车窗、挡风玻璃。<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>35%的用户会购买若存在以下任一情况，建议购买：</p>\r\n            <p>\r\n                &bull;车辆经常停在露天停车场；<br />\r\n                &bull;车辆停放区域治安不好。<br />\r\n            </p>\r\n            <p>单独玻璃破碎，不属于车辆损失险范围</p>"
+              },
+              {
+                "sysNo": 8,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "车辆自燃损失险",
+                "briefName": "自燃险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 76.78,
+                      "rate": null,
+                      "amount": 511.8529
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 7,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>因本车电器、线路、油路、供油系统、供气系统、车载货物自身发生问题，机动车运转摩擦起火引起火灾，造成车辆自身的损失，保险公司按条款规定赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>10%的用户会购买。</p>\r\n            <p>若存在以下任一情况，自燃风险较高，建议购买： </p>\r\n            <p>车辆使用超过两年，油路和电路都有所老化；</p>\r\n            <p>年行驶里程超过三万公里；</p>\r\n            <p>公司或单位车子，驾驶员不固定，行驶区域不固定；</p>\r\n            <p>新上市的车型，有可能存在设计缺陷容易自燃。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              }
+            ]
+          },
+          "clifmva": {
+            "sysNo": 0,
+            "name": "交强险",
+            "amount": 950.0
+          },
+          "vavt": {
+            "sysNo": 0,
+            "name": "车船税",
+            "amount": 75.0
+          }
+        }
+      },
+      "isDefault": false
+    },
+    {
+      "sysId": 2,
+      "insuranceCompanySysNo": 2,
+      "fullName": "中国平安保险（集团）股份有限公司",
+      "briefName": "平安",
+      "isOffsitePurchase": false,
+      "logoPath": "http://image.yaomaiche.com/mkt/Original/2015/0702/79293b18-bf54-43a1-8100-57b0a84ff0a2.png",
+      "priority": 3,
+      "description": "<div class=\"text\">\r\n\t\t\t\t<p style=\"text-indent: 2em;\">中国平安保险（集团）股份有限公司（以下简称“中国平安”，“公司”，“集团”）于1988年诞生于深圳蛇口，是中国第一家股份制保险企业，至今已经发展成为融保险、银行、投资等金融业务为一体的整合、紧密、多元的综合金融服务集团。投资保险企业；监督管理控股投资企业的各种国内、国际业务；开展保险资金运用业务；经批准开展国内、国际保险业务；经中国保险监督管理委员会及国家有关部门批准的其他业务。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">客服电话：95511转5</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">勘察时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">本地出险：查勘人员10分钟内与报案人取得联系。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">异地出险：查勘人员15分钟内与报案人取得联系。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">定损时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">1万元以下：定损 1 个工作日内完成。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">5万元以下：定损 3 个工作日内完成。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">赔付时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">1万元以下(不含人伤和物损）：1个工作日内通知赔付。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">5万元以下：双方事故，3个工作日内通知赔付。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">增值服务：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">1.免费道路救援：接电服务、紧急加水、更换轮胎、现场抢修、拖车牵引（100KM）、吊装救援（100KM）。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">2.代步车：（价值3000元）返厂维修，全年享受15天！享受条件： 新车承保；旧车转或续保上年0次出险。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">3.酒后安心：（价值200元）全年享受1次！享受条件：新车承保；旧车转或续保上年0-1次出险。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">4.浦东机场免费停车：（价值200元）全年享受1次，4天！享受件：旧车转保上年0次出险或续保0-1次出险。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">最终解释权归保险公司所有。</p>\r\n\t\t\t</div>\r\n",
+      "memo": "快、易、免，服务多，三年获“顾客最满意保险公司”",
+      "insuranceFullInfo": {
+        "head": {
+          "company": {
+            "sysNo": "2",
+            "provider": "2",
+            "agent": "2"
+          },
+          "finance": {
+            "bankSysNo": null,
+            "loanPeriod": 12,
+            "beneficiary": "建设银行"
+          },
+          "areaSysNo": "00000000-0000-0000-0000-000000000000",
+          "beneficiary": null,
+          "vehicleCoverage": "498882"
+        },
+        "body": {
+          "packageList": {
+            "package": [
+              {
+                "sysNo": 6,
+                "name": "大众智选",
+                "insuranceType": [
+                  {
+                    "sysNo": 1,
+                    "level": "",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 2,
+                    "level": "100万",
+                    "enabledSDEW": 1
+                  }
+                ],
+                "displayOrder": 1,
+                "description": "中低度保障，对自己的爱车有保障，大部分的交通事故赔偿无忧。 \n适用人群：老司机、神车手、路况良好享有者",
+                "isDefault": true
+              },
+              {
+                "sysNo": 10,
+                "name": "“菜鸟”装备",
+                "insuranceType": [
+                  {
+                    "sysNo": 1,
+                    "level": "",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 2,
+                    "level": "100万",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 4,
+                    "level": "2000",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 6,
+                    "level": "50000",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 7,
+                    "level": "50000",
+                    "enabledSDEW": 1
+                  }
+                ],
+                "displayOrder": 2,
+                "description": "中高度保障，增加对车主和乘客的保障，具备严重交通意外的赔付能力（100万）。适用人群：新手上路、“女”司机、本本族",
+                "isDefault": false
+              }
+            ]
+          },
+          "insuranceTypeList": {
+            "insuranceType": [
+              {
+                "sysNo": 1,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": true,
+                "isBuySDEW": true,
+                "purchasePeriod": 1,
+                "fullName": "机动车车辆损失险",
+                "briefName": "车损险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 978.19,
+                      "rate": null,
+                      "amount": 6521.287
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 0,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": "(95%的人会选择)",
+                "description": "<h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>车辆损失险是指保险车辆遭受保险责任范围内的自然灾害(不包括地震)或意外事故，造成保险车辆本身损失，保险人依据保险合同的规定给予赔偿，发生保险事故时，补偿您自己车辆的损失。</p>\r\n            <p>例如发生以下事故，保险公司可以按照条款赔偿您的车辆维修费用：</p>\r\n            <p>\r\n                &bull;车子撞到护栏、柱子等，或被外界物体倒塌/坠落砸坏；<br />\r\n                &bull;您不小心撞了别人车辆，自己的车子受损；<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>95%的用户会购买。该险种性价比高，目前车价10万左右车辆，一两个配件的维修费用可能超过千元。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 2,
+                "level": "50万",
+                "enabledSDEW": 0,
+                "isForced": true,
+                "isBuySDEW": true,
+                "purchasePeriod": 1,
+                "fullName": "第三者责任险",
+                "briefName": "三责险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "100万",
+                      "description": "100万",
+                      "sdewAmount": 253.42,
+                      "rate": null,
+                      "amount": 1689.48
+                    },
+                    {
+                      "level": "50万",
+                      "description": "50万",
+                      "sdewAmount": 194.43,
+                      "rate": null,
+                      "amount": 1296.18
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 2,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": "(99%的人会选择)",
+                "description": " <h2 style='border-top:0px solid #cccccc'>保险范畴:</h2>\r\n            <p>发生保险事故，保险公司按条款赔偿您对第三方（人或物）造成的损失。</p>\r\n            <p>例如：发生以下事故，如果您负有责任，保险公司按照条款赔偿。</p>\r\n            <p>\r\n                &bull;您不小心撞坏了别人的车<br />\r\n                &bull;您不小心撞到别人造成伤亡<br />\r\n                &bull;交强险最多赔12.2万，显然是杯水车薪。投保了商业第三方责任险，交强险赔付不足的部分，由保险公司赔偿。<br />\r\n                &bull;保障越高越好，建议至少选择50-100万的保障额度。<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>99%的用户会购买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 3,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "全车盗抢险",
+                "briefName": "盗抢险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.2",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 370.29,
+                      "rate": null,
+                      "amount": 1851.4309
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 3,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>如果整车发生被偷被盗，保险公司将按条款进行赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>35%的用户会购买。</p>\r\n            <p>若存在以下任一情况，建议购买：</p>\r\n            <p>无固定车库，一般停在露天停车场；</p>\r\n            <p>经常开车出差，无固定停车地点；</p>\r\n            <p>车辆属于被易被盗车险；</p>\r\n            <p>车辆保管和行驶环境治安很差；</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 6,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "司机座位责任险",
+                "briefName": "司机责任险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "50000",
+                      "description": "5万",
+                      "sdewAmount": 26.93,
+                      "rate": null,
+                      "amount": 179.55
+                    },
+                    {
+                      "level": "40000",
+                      "description": "4万",
+                      "sdewAmount": 21.55,
+                      "rate": null,
+                      "amount": 143.64
+                    },
+                    {
+                      "level": "30000",
+                      "description": "3万",
+                      "sdewAmount": 16.16,
+                      "rate": null,
+                      "amount": 107.73
+                    },
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 10.77,
+                      "rate": null,
+                      "amount": 71.82
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 5.39,
+                      "rate": null,
+                      "amount": 35.91
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 1,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": " <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>发生意外事故，造成本车司机的人身伤亡，如果本车负有责任，保险公司将按条款规定进行赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>63%的用户会购买经常开车带家人或朋友，需要保障家人朋友的人身安全，建议购买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 7,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "乘客座位责任险",
+                "briefName": "乘客责任险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "50000",
+                      "description": "5万",
+                      "sdewAmount": 69.26,
+                      "rate": null,
+                      "amount": 461.7
+                    },
+                    {
+                      "level": "40000",
+                      "description": "4万",
+                      "sdewAmount": 55.4,
+                      "rate": null,
+                      "amount": 369.36
+                    },
+                    {
+                      "level": "30000",
+                      "description": "3万",
+                      "sdewAmount": 41.55,
+                      "rate": null,
+                      "amount": 277.02
+                    },
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 27.7,
+                      "rate": null,
+                      "amount": 184.68
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 13.85,
+                      "rate": null,
+                      "amount": 92.34
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 5,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "<h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 4,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "车身划痕损失险",
+                "briefName": "划痕险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 228.29,
+                      "rate": null,
+                      "amount": 1521.9
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 150.05,
+                      "rate": null,
+                      "amount": 1000.35
+                    },
+                    {
+                      "level": "5000",
+                      "description": "5千",
+                      "sdewAmount": 115.43,
+                      "rate": null,
+                      "amount": 769.5
+                    },
+                    {
+                      "level": "2000",
+                      "description": "2千",
+                      "sdewAmount": 75.03,
+                      "rate": null,
+                      "amount": 500.175
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 4,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>无明显碰撞痕迹的车身表面油漆单独划伤，保险公司将负责赔偿。</p>\r\n            <p>·比如您的车停放期间，被人用钥匙、石头划伤了，保险公司按条款负责赔偿您的维修费用。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>8%的用户会购买，适用于新车及新手</p>\r\n            <p>在使用过程中，被他人剐划(无明显碰撞痕迹)需要修复的费用，这类维修费用不在车损险理赔涵盖范围内，一般新车、新手买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 5,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "玻璃单独破碎险",
+                "briefName": "玻璃破碎险",
+                "premiumInfo": {
+                  "hasSDEW": 0,
+                  "sdewRatio": "0",
+                  "premium": [
+                    {
+                      "level": "进口玻璃",
+                      "description": "进口玻璃",
+                      "sdewAmount": 0.0,
+                      "rate": "0.0031",
+                      "amount": 1322.2867
+                    },
+                    {
+                      "level": "国产玻璃",
+                      "description": "国产玻璃",
+                      "sdewAmount": 0.0,
+                      "rate": "0.0019",
+                      "amount": 810.4338
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 6,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "<h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>如果发生车窗、挡风玻璃的单独破碎，保险公司按实际损失赔偿。比如：</p>\r\n            <p>\r\n                &bull;高速路上行驶被飞石击碎车窗、挡风玻璃；<br />\r\n                &bull;车辆停放被高空坠物砸坏车窗、挡风玻璃。<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>35%的用户会购买若存在以下任一情况，建议购买：</p>\r\n            <p>\r\n                &bull;车辆经常停在露天停车场；<br />\r\n                &bull;车辆停放区域治安不好。<br />\r\n            </p>\r\n            <p>单独玻璃破碎，不属于车辆损失险范围</p>"
+              },
+              {
+                "sysNo": 8,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "车辆自燃损失险",
+                "briefName": "自燃险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 76.78,
+                      "rate": null,
+                      "amount": 511.8529
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 7,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>因本车电器、线路、油路、供油系统、供气系统、车载货物自身发生问题，机动车运转摩擦起火引起火灾，造成车辆自身的损失，保险公司按条款规定赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>10%的用户会购买。</p>\r\n            <p>若存在以下任一情况，自燃风险较高，建议购买： </p>\r\n            <p>车辆使用超过两年，油路和电路都有所老化；</p>\r\n            <p>年行驶里程超过三万公里；</p>\r\n            <p>公司或单位车子，驾驶员不固定，行驶区域不固定；</p>\r\n            <p>新上市的车型，有可能存在设计缺陷容易自燃。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              }
+            ]
+          },
+          "clifmva": {
+            "sysNo": 0,
+            "name": "交强险",
+            "amount": 950.0
+          },
+          "vavt": {
+            "sysNo": 0,
+            "name": "车船税",
+            "amount": 75.0
+          }
+        }
+      },
+      "isDefault": false
+    },
+    {
+      "sysId": 4,
+      "insuranceCompanySysNo": 4,
+      "fullName": "中国大地财产保险股份有限公司",
+      "briefName": "大地",
+      "isOffsitePurchase": false,
+      "logoPath": "http://image.yaomaiche.com/mkt/Original/2015/0702/7d926295-0d59-41e9-879e-81ffb5722ba1.jpg",
+      "priority": 4,
+      "description": "<div class=\"text\">\r\n\t\t\t\t<p style=\"text-indent: 2em;\">中国大地财产保险股份有限公司渊源于1949年10月成立的原中国人民保险公司，是经中国保监会批准成立，由中国再保险（集团）公司以投资人和主发起人的身份控股设立的全国性财产保险公司。公司成立于2003年10月20日，注册资本金10亿元人民币，总部设在上海。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">作为中再集团公司旗下唯一的直保财险公司，中国大地保险九年创业实现了跨越式发展，创造了令业界刮目相看的“大地现象”。公司已设立分公司34家、营业部1家，5个层级的机构总数超过1700家，其中苏州，安徽淮北，亳州员工人数首超5000人，全国性服务网络已经形成。美国纽约代表处顺利设立。2007年保费规模即突破100亿元。2011年，公司继续保持了良好发展势头，全年实现保费超过160亿元，市场排位居行业第六位。2012年，公司进入中国财产保险公司排行榜前五名。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">客服电话：400-966-6666</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">勘察时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">我司接到客户报案后查勘人员于第一时间内与报案人取得联系。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">现场查勘时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">市区范围内的事故：30分钟内到达现场。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">郊区范围内的事故：60分钟内到达现场。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">定损时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">5,000元（含）的事故：不涉及隐损的当场出具定损单，涉及隐损的1个工作日内出定损单。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">5,000元-3万元（含）的事故：损失确认后3个工作日内出具定损单。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">3万-10万元（含）的事故：损失确认后5个工作日内出具定损单。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">赔付时效：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">损失在1万元以下的事故，1个工作日内结案并通知赔付。</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">损失在1万-10万元(含)之间的事故，3个工作日内结案并通知赔付。</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">增值服务：</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">人伤免费救助</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">无限次免费全国非事故道路救援（50KM）</p>\r\n\t\t\t\t<p style=\"text-indent: 4em;\">免费上门理赔</p>\r\n\t\t\t\t<p style=\"text-indent: 2em;\">最终解释权归保险公司所有。</p>\r\n\t\t\t</div>",
+      "memo": "省心、开心、贴心、放心、安心、顺心，理想车险服务",
+      "insuranceFullInfo": {
+        "head": {
+          "company": {
+            "sysNo": "4",
+            "provider": "4",
+            "agent": "4"
+          },
+          "finance": {
+            "bankSysNo": null,
+            "loanPeriod": 12,
+            "beneficiary": "建设银行"
+          },
+          "areaSysNo": "00000000-0000-0000-0000-000000000000",
+          "beneficiary": null,
+          "vehicleCoverage": "498882"
+        },
+        "body": {
+          "packageList": {
+            "package": [
+              {
+                "sysNo": 8,
+                "name": "大众智选",
+                "insuranceType": [
+                  {
+                    "sysNo": 1,
+                    "level": "",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 2,
+                    "level": "100万",
+                    "enabledSDEW": 1
+                  }
+                ],
+                "displayOrder": 1,
+                "description": "中低度保障，对自己的爱车有保障，大部分的交通事故赔偿无忧。 \n适用人群：老司机、神车手、路况良好享有者",
+                "isDefault": true
+              },
+              {
+                "sysNo": 12,
+                "name": "“菜鸟”装备",
+                "insuranceType": [
+                  {
+                    "sysNo": 1,
+                    "level": "",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 2,
+                    "level": "100万",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 4,
+                    "level": "2000",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 6,
+                    "level": "50000",
+                    "enabledSDEW": 1
+                  },
+                  {
+                    "sysNo": 7,
+                    "level": "50000",
+                    "enabledSDEW": 1
+                  }
+                ],
+                "displayOrder": 2,
+                "description": "中高度保障，增加对车主和乘客的保障，具备严重交通意外的赔付能力（100万）。适用人群：新手上路、“女”司机、本本族",
+                "isDefault": false
+              }
+            ]
+          },
+          "insuranceTypeList": {
+            "insuranceType": [
+              {
+                "sysNo": 1,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": true,
+                "isBuySDEW": true,
+                "purchasePeriod": 1,
+                "fullName": "机动车车辆损失险",
+                "briefName": "车损险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 978.19,
+                      "rate": null,
+                      "amount": 6521.287
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 0,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": "(95%的人会选择)",
+                "description": "<h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>车辆损失险是指保险车辆遭受保险责任范围内的自然灾害(不包括地震)或意外事故，造成保险车辆本身损失，保险人依据保险合同的规定给予赔偿，发生保险事故时，补偿您自己车辆的损失。</p>\r\n            <p>例如发生以下事故，保险公司可以按照条款赔偿您的车辆维修费用：</p>\r\n            <p>\r\n                &bull;车子撞到护栏、柱子等，或被外界物体倒塌/坠落砸坏；<br />\r\n                &bull;您不小心撞了别人车辆，自己的车子受损；<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>95%的用户会购买。该险种性价比高，目前车价10万左右车辆，一两个配件的维修费用可能超过千元。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 2,
+                "level": "50万",
+                "enabledSDEW": 0,
+                "isForced": true,
+                "isBuySDEW": true,
+                "purchasePeriod": 1,
+                "fullName": "第三者责任险",
+                "briefName": "三责险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "100万",
+                      "description": "100万",
+                      "sdewAmount": 253.42,
+                      "rate": null,
+                      "amount": 1689.48
+                    },
+                    {
+                      "level": "50万",
+                      "description": "50万",
+                      "sdewAmount": 194.43,
+                      "rate": null,
+                      "amount": 1296.18
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 2,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": "(99%的人会选择)",
+                "description": " <h2 style='border-top:0px solid #cccccc'>保险范畴:</h2>\r\n            <p>发生保险事故，保险公司按条款赔偿您对第三方（人或物）造成的损失。</p>\r\n            <p>例如：发生以下事故，如果您负有责任，保险公司按照条款赔偿。</p>\r\n            <p>\r\n                &bull;您不小心撞坏了别人的车<br />\r\n                &bull;您不小心撞到别人造成伤亡<br />\r\n                &bull;交强险最多赔12.2万，显然是杯水车薪。投保了商业第三方责任险，交强险赔付不足的部分，由保险公司赔偿。<br />\r\n                &bull;保障越高越好，建议至少选择50-100万的保障额度。<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>99%的用户会购买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 3,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "全车盗抢险",
+                "briefName": "盗抢险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.2",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 370.29,
+                      "rate": null,
+                      "amount": 1851.4309
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 3,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>如果整车发生被偷被盗，保险公司将按条款进行赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>35%的用户会购买。</p>\r\n            <p>若存在以下任一情况，建议购买：</p>\r\n            <p>无固定车库，一般停在露天停车场；</p>\r\n            <p>经常开车出差，无固定停车地点；</p>\r\n            <p>车辆属于被易被盗车险；</p>\r\n            <p>车辆保管和行驶环境治安很差；</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 6,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "司机座位责任险",
+                "briefName": "司机责任险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "50000",
+                      "description": "5万",
+                      "sdewAmount": 26.93,
+                      "rate": null,
+                      "amount": 179.55
+                    },
+                    {
+                      "level": "40000",
+                      "description": "4万",
+                      "sdewAmount": 21.55,
+                      "rate": null,
+                      "amount": 143.64
+                    },
+                    {
+                      "level": "30000",
+                      "description": "3万",
+                      "sdewAmount": 16.16,
+                      "rate": null,
+                      "amount": 107.73
+                    },
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 10.77,
+                      "rate": null,
+                      "amount": 71.82
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 5.39,
+                      "rate": null,
+                      "amount": 35.91
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 1,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": " <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>发生意外事故，造成本车司机的人身伤亡，如果本车负有责任，保险公司将按条款规定进行赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>63%的用户会购买经常开车带家人或朋友，需要保障家人朋友的人身安全，建议购买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 7,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "乘客座位责任险",
+                "briefName": "乘客责任险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "50000",
+                      "description": "5万",
+                      "sdewAmount": 69.26,
+                      "rate": null,
+                      "amount": 461.7
+                    },
+                    {
+                      "level": "40000",
+                      "description": "4万",
+                      "sdewAmount": 55.4,
+                      "rate": null,
+                      "amount": 369.36
+                    },
+                    {
+                      "level": "30000",
+                      "description": "3万",
+                      "sdewAmount": 41.55,
+                      "rate": null,
+                      "amount": 277.02
+                    },
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 27.7,
+                      "rate": null,
+                      "amount": 184.68
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 13.85,
+                      "rate": null,
+                      "amount": 92.34
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "",
+                "typeID": 5,
+                "isBasicInsurance": 1,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "<h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 4,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "车身划痕损失险",
+                "briefName": "划痕险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": "20000",
+                      "description": "2万",
+                      "sdewAmount": 228.29,
+                      "rate": null,
+                      "amount": 1521.9
+                    },
+                    {
+                      "level": "10000",
+                      "description": "1万",
+                      "sdewAmount": 150.05,
+                      "rate": null,
+                      "amount": 1000.35
+                    },
+                    {
+                      "level": "5000",
+                      "description": "5千",
+                      "sdewAmount": 115.43,
+                      "rate": null,
+                      "amount": 769.5
+                    },
+                    {
+                      "level": "2000",
+                      "description": "2千",
+                      "sdewAmount": 75.03,
+                      "rate": null,
+                      "amount": 500.175
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 4,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>无明显碰撞痕迹的车身表面油漆单独划伤，保险公司将负责赔偿。</p>\r\n            <p>·比如您的车停放期间，被人用钥匙、石头划伤了，保险公司按条款负责赔偿您的维修费用。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>8%的用户会购买，适用于新车及新手</p>\r\n            <p>在使用过程中，被他人剐划(无明显碰撞痕迹)需要修复的费用，这类维修费用不在车损险理赔涵盖范围内，一般新车、新手买。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              },
+              {
+                "sysNo": 5,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "玻璃单独破碎险",
+                "briefName": "玻璃破碎险",
+                "premiumInfo": {
+                  "hasSDEW": 0,
+                  "sdewRatio": "0",
+                  "premium": [
+                    {
+                      "level": "进口玻璃",
+                      "description": "进口玻璃",
+                      "sdewAmount": 0.0,
+                      "rate": "0.0031",
+                      "amount": 1322.2867
+                    },
+                    {
+                      "level": "国产玻璃",
+                      "description": "国产玻璃",
+                      "sdewAmount": 0.0,
+                      "rate": "0.0019",
+                      "amount": 810.4338
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 6,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "<h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>如果发生车窗、挡风玻璃的单独破碎，保险公司按实际损失赔偿。比如：</p>\r\n            <p>\r\n                &bull;高速路上行驶被飞石击碎车窗、挡风玻璃；<br />\r\n                &bull;车辆停放被高空坠物砸坏车窗、挡风玻璃。<br />\r\n            </p>\r\n            <h2>购买指数:</h2>\r\n            <p>35%的用户会购买若存在以下任一情况，建议购买：</p>\r\n            <p>\r\n                &bull;车辆经常停在露天停车场；<br />\r\n                &bull;车辆停放区域治安不好。<br />\r\n            </p>\r\n            <p>单独玻璃破碎，不属于车辆损失险范围</p>"
+              },
+              {
+                "sysNo": 8,
+                "level": "",
+                "enabledSDEW": 0,
+                "isForced": false,
+                "isBuySDEW": false,
+                "purchasePeriod": 1,
+                "fullName": "车辆自燃损失险",
+                "briefName": "自燃险",
+                "premiumInfo": {
+                  "hasSDEW": 1,
+                  "sdewRatio": "0.15",
+                  "premium": [
+                    {
+                      "level": null,
+                      "description": null,
+                      "sdewAmount": 95.97,
+                      "rate": null,
+                      "amount": 639.8162
+                    }
+                  ]
+                },
+                "discountRatio": "0.855",
+                "preInsuranceList": "1",
+                "typeID": 7,
+                "isBasicInsurance": 0,
+                "isDefault": false,
+                "howManyPeopleSelect": null,
+                "description": "\r\n            <h2 style=\"border-top:0px solid #cccccc\">保险范畴:</h2>\r\n            <p>因本车电器、线路、油路、供油系统、供气系统、车载货物自身发生问题，机动车运转摩擦起火引起火灾，造成车辆自身的损失，保险公司按条款规定赔偿。</p>\r\n            <h2>购买指数:</h2>\r\n            <p>10%的用户会购买。</p>\r\n            <p>若存在以下任一情况，自燃风险较高，建议购买： </p>\r\n            <p>车辆使用超过两年，油路和电路都有所老化；</p>\r\n            <p>年行驶里程超过三万公里；</p>\r\n            <p>公司或单位车子，驾驶员不固定，行驶区域不固定；</p>\r\n            <p>新上市的车型，有可能存在设计缺陷容易自燃。</p><h2>不计免赔:</h2>\r\n                <p>投保后，按保险条款计算出来本应由投保人自行承担的免赔金额（比例）也由保险公司承担。</p>"
+              }
+            ]
+          },
+          "clifmva": {
+            "sysNo": 0,
+            "name": "交强险",
+            "amount": 950.0
+          },
+          "vavt": {
+            "sysNo": 0,
+            "name": "车船税",
+            "amount": 75.0
+          }
+        }
+      },
+      "isDefault": false
+    }
+  ],
+  "error": null,
+  "unAuthorizedRequest": false
+}

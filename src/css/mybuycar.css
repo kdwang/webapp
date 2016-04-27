@@ -1,0 +1,820 @@
+.mainautow {
+    width: 100% !important;
+    height:100% !important;
+}
+.noScroll{position:fixed;z-index:10000000;left:0;top:0;bottom:0;right:0;background:rgba(0,0,0,0);}
+.mycar .p0_5 {
+    padding: 0 5px;
+    position: relative;
+}
+.mycar .wh100{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+/*left_menu*/
+.mycar .left_menu {
+    width: 125px;
+    position: fixed;
+    top: 0px;
+    height: 100%;
+    left: -125px;
+    background: #4a4d52;
+    box-sizing: border-box;
+    -webkit-transition: all linear .15s;
+    -moz-transition: all linear .15s;
+    -o-transition: all linear .15s;
+    transition: all linear .15s;
+    /*overflow-Y: auto;
+    -webkit-overflow-scrolling: touch;*/
+
+    z-index: 1001;
+}
+
+.mycar .left_menu .country_body {
+    min-height: 100%;
+    overflow: auto;
+}
+
+.mycar .mainmenu_cur {
+    height: 100% !important;
+    overflow: auto;
+}
+
+.mycar .mainmenu_cur header {
+    position: fixed;
+}
+
+.mycar .left_menu_cur {
+    -webkit-transform: translate3d(100%, 0px, 0px);
+    -moz-transform: translate3d(100%, 0px, 0px);
+    -o-transform: translate3d(100%, 0px, 0px);
+    transform: translate3d(100%, 0px, 0px);
+    z-index: 1001;
+    height: 100%;
+}
+
+.mycar .left_menu .home_btn:before,
+.mycar .left_menu .sale_btn:before,
+.mycar .left_menu .order_btn:before,
+.mycar .left_menu .customer_btn:before,
+.mycar .left_menu .help_btn:before,
+.mycar .left_menu .share_btn:before,
+.mycar .left_menu .edit_btn:before
+/*.left_menu li:before*/
+{
+    background: url(../imgs/right_sp.png) no-repeat;
+    background-size: 63px 365px;
+    content: "";
+    display: block;
+    background-position: 0 0;
+    height: 30px;
+    width: 30px;
+    margin: 0 auto;
+}
+
+.mycar .left_menu a {
+    display: block;
+    text-align: center;
+    color: #bfbfbf;
+    font-size: 14px;
+    line-height: 30px;
+    position: relative;
+}
+
+.mycar .left_menu * {
+    color: #bfbfbf;
+    font-size: 14px;
+    line-height: 30px;
+}
+
+.mycar .left_menu li {
+    display: block;
+    text-align: center;
+    position: relative;
+}
+
+.mycar .left_menu .home_btn:before {
+    background-position: -1px 3px;
+}
+
+.mycar .left_menu .home_btn:hover:before,
+.mycar .left_menu .home_btn:active:before,
+.mycar .left_menu .home_btn.active:before {
+    background-position: -32px 3px;
+}
+
+.mycar .left_menu .sale_btn:before {
+    background-position: -1px -35px;
+}
+
+.mycar .left_menu .sale_btn:hover:before,
+.mycar .left_menu .sale_btn:active:before,
+.mycar .left_menu .sale_btn.active:before {
+    background-position: -32px -35px;
+}
+
+.mycar .left_menu .order_btn:before {
+    background-position: -1px -225px;
+}
+
+.mycar .left_menu .order_btn:hover:before,
+.mycar .left_menu .order_btn:active:before,
+.mycar .left_menu .order_btn.active:before {
+    background-position: -32px -225px;
+}
+
+.mycar .left_menu .customer_btn:before {
+    background-position: -1px -261px;
+}
+
+.mycar .left_menu .customer_btn:hover:before,
+.mycar .left_menu .customer_btn:active:before,
+.mycar .left_menu .customer_btn.active:before {
+    background-position: -32px -261px;
+}
+
+.mycar .left_menu .help_btn:before {
+    background-position: -1px -109px;
+}
+
+.mycar .left_menu .help_btn:hover:before,
+.mycar .left_menu .help_btn:active:before,
+.mycar .left_menu .help_btn.active:before {
+    background-position: -32px -109px;
+}
+
+.mycar .left_menu .share_btn:before {
+    background-position: 0 -240px;
+}
+
+.mycar .left_menu .share_btn:hover:before,
+.mycar .left_menu .share_btn:active:before,
+.mycar .left_menu .share_btn.active:before {}
+
+.mycar .left_menu .edit_btn:before {
+    background-position: 0 -303px;
+}
+
+.mycar .left_menu .edit_btn:hover:before,
+.mycar .left_menu .edit_btn:active:before,
+.mycar .left_menu .edit_btn.active:before {}
+
+.mycar .left_menu .home_btn:hover:before,
+.mycar .left_menu .sale_btn:hover:before,
+.mycar .left_menu .order_btn:hover:before,
+.mycar .left_menu .customer_btn:hover:before,
+.mycar .left_menu .help_btn:hover:before,
+.mycar .left_menu .share_btn:hover:before,
+.mycar .left_menu .edit_btn:hover:before,
+.mycar .left_menu .home_btn:active:before,
+.mycar .left_menu .sale_btn:active:before,
+.mycar .left_menu .order_btn:active:before,
+.mycar .left_menu .customer_btn:active:before,
+.mycar .left_menu .help_btn:active:before,
+.mycar .left_menu .share_btn:active:before,
+.mycar .left_menu .edit_btn:active:before,
+.mycar .left_menu .home_btn.active:before,
+.mycar .left_menu .sale_btn.active:before,
+.mycar .left_menu .order_btn.active:before,
+.mycar .left_menu .customer_btn.active:before,
+.mycar .left_menu .help_btn.active:before,
+.mycar .left_menu .share_btn.active:before,
+.mycar .left_menu .edit_btn.active:before
+/*.left_menu li:before*/
+
+{
+    /* background-position-x: -30px; */
+}
+
+.mycar .left_menu a:hover,
+.mycar .left_menu a:active,
+.mycar .left_menu a.active {
+    color: #f7c53a;
+}
+
+.mycar .left_menu li {
+    padding: 0 0 12px;
+}
+
+.mycar .left_menu .inner {
+    min-height: 100%;
+    position: relative;
+}
+
+.mycar .left_menu_bottom {
+    position: absolute;
+    bottom: 75px;
+    width: 210px;
+}
+
+.mycar .left_menu_bottom p {
+    font-size: 18px;
+    color: #bdbdbd;
+}
+
+.mycar .left_menu_login {
+    color: #d5ad3e !important;
+    text-decoration: underline;
+}
+/* ============== mybuycar ================ */
+
+.mycar .mybuy_btnz {
+    width: 40%;
+    height: 43px;
+    line-height: 44px;
+    background: black;
+    border-radius: 3px;
+    color: #fff;
+    font-size: 14px;
+    text-align: center;
+    box-shadow: 0 1px 0 #fff;
+    display: block;
+}
+
+.mycar .ico,
+.mycar .shareicon:before,
+.mycar .del_btn:before {
+    background: url("../imgs/ico_sprite.png") no-repeat;
+    background-size: 96px 177px;
+}
+.mycar .ico-hot{
+    display: inline-block;
+    width: 30px;
+    height: 38px;
+    background-position: -60px -140px;
+}
+.mycar .shareicon:before {
+    content: "";
+    display: block;
+    position: absolute;
+    height: 23px;
+    width: 23px;
+}
+
+.mycar .shareicon {
+    width: 50px;
+    height: 50px;
+    text-indent: -10000px;
+    text-align: left;
+    overflow: hidden;
+    display: none;
+    position: relative;
+}
+
+.mycar .shareicon:active {
+    background: #efefef;
+}
+
+
+.mycar .shareicon:before {
+    background-position: -3px -33px;
+    top: 50%;
+    left: 19px;
+    margin-top:-11px;
+}
+
+.mycar .shareicon:active:before {
+    background-position: -37px -33px;
+}
+
+.mycar .mybuy_btn {
+    width: 144px;
+    height: 54px;
+    background-position: left -85px;
+    text-indent: -10000px;
+    overflow: hidden;
+    margin-right: 20px;
+    margin-top: 4px;
+}
+
+.mycar .mybuy_btn:active {
+    opacity: .7;
+}
+
+
+.mycar .mybuycar {
+    background: #e6e6e6;
+}
+
+.mycar .mybuycar_list {
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    padding: 10px 0;
+    overflow: hidden;
+}
+
+.mycar .mybuycar_list li {
+    position: relative;
+    display: block;
+    margin: 0 0 15px;
+}
+
+.mycar .mybuycar_list .title {
+    font-size: 14px;
+    color: #8b8777;
+    padding: 10px 0 10px 10px;
+    line-height: 24px;
+}
+.mycar .mybuycar_list .title span{
+    background: #F8C623;
+    color:#fff;
+    padding:3px 4px;
+    border-radius: 3px;
+    margin-right: 3px;
+}
+.mycar .mybuycar_list .pro_img_panel {
+    padding-left: 10px;
+    position: absolute;
+    top: 50%;
+    height: 100px;
+    width:150px;
+    margin-top: -50px;
+    background-position: -10px center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+.mycar .mybuycar_list .pro_img_panel a{
+    display: block;
+    width: 100%;
+    height: 100%;
+}
+
+
+.mycar .mybuycar_list .pro_img {
+    vertical-align: middle;
+}
+
+.mycar .mybuycar_list .bottom_panel {
+    padding: 10px 10px 0;
+}
+.mycar .mybuycar_list .myflex{
+    overflow: hidden;
+}
+
+.mycar .mybuycar_list .flex-item {
+    position: relative;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+    height:120px;
+    width: 50%;
+    float: left;
+    font-size: 12px;
+    border-radius: 3px;
+    position: relative;
+    color: #525252;
+    overflow: hidden;
+}
+
+.mycar .mybuycar_list .flex-item p {
+    line-height: 22px;
+}
+.mycar .mybuycar_list .flex-item .low-loan{
+    margin-top:3px;
+    line-height:16px;
+    color:#999;
+}
+.mycar .mybuycar_list .flex-item .ico-hot{
+    position: absolute;
+    top: -1px;
+}
+.mycar .mybuycar_list .box1 .ico-hot,
+.mycar .mybuycar_list .box3 .ico-hot{
+    right: 2px;
+}
+.mycar .mybuycar_list .box2 .ico-hot,
+.mycar .mybuycar_list .box4 .ico-hot{
+    left: 2px;
+}
+.mycar .mybuycar_list .box_dot:before {
+    display: block;
+    position: absolute;
+    z-index: 1;
+    content: "";
+    height: 10px;
+    width: 10px;
+    background: #fc5151;
+    right: -3px;
+    top: -3px;
+    border-radius: 50% 50%;
+}
+
+.mycar .mybuycar_list .flex-item strong {
+    font-weight: normal;
+}
+
+.mycar .mybuycar_list .box1,
+.mycar .mybuycar_list .box3 {
+    border-right: 2px solid #fff;
+    padding-top:5px;
+    padding-left: 5px;
+}
+
+.mycar .mybuycar_list .box2,
+.mycar .mybuycar_list .box4 {
+    border-left: 2px solid #fff;
+    padding-right:5px;
+}
+
+.mycar .mybuycar_list .box1,
+.mycar .mybuycar_list .box2 {
+    padding-top:5px;
+}
+
+.mycar .mybuycar_list .box3 p:first-child,
+.mycar .mybuycar_list .box4 p:first-child{
+    padding-top: 45px;
+}
+
+.mycar .mybuycar_list .box1 {
+    background: #dbe5ff;
+}
+
+.mycar .mybuycar_list .box2 {
+    background: #ede5ff;
+}
+
+.mycar .mybuycar_list .box3 {
+    background: #c8ecf2;
+}
+
+.mycar .mybuycar_list .box4 {
+    background: #d7edfc;
+}
+
+.mycar .mybuycar_list .box2 p,
+.mycar .mybuycar_list .box4 p {
+    text-align: right;
+}
+
+.mycar .mybuycar_list .p0_10 {
+    position: relative;
+}
+
+.mycar .mybuycar_list .car_price {
+    padding: 20px 5px 20px 0;
+    background: #fff;
+    color: #525252;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box;
+}
+
+.mycar .mybuycar_list .car_price p {
+    text-align: right;
+}
+.mycar .mybuycar_list .cross-out{
+    text-decoration:line-through;
+}
+
+.mycar .mybuycar_list .col_price {
+    margin-top: 8px;
+    height: 25px;
+    line-height: 25px;
+    display: block;
+    font-size: 16px;
+    width: 60%;
+    overflow: hidden;
+}
+
+.mycar .mybuycar_list .col_price .price {
+    color: #ff4040;
+}
+
+.mycar .mybuycar_list .allPrice {
+    border-top: 1px solid #f1f1f1;
+    margin: 10px 0 0;
+}
+
+.mycar .mybuycar_list .allPrice .mybuy_btnz {
+    margin: 8px 0 0;
+    background: #f8c623;
+    color: #262525;
+    font-size: 18px;
+    box-shadow: 0 1px 0 #d4ba66;
+}
+.mycar .mybuycar_list .allPrice .mybuy_btnz-disabled{
+    background-color:#ddd;
+    color:#999;
+    box-shadow:none;
+    cursor: not-allowed;
+}
+.mycar .mybuycar_list .inner {
+    background: #fff;
+    padding: 0 0 10px;
+    border-radius: 3px;
+    width: 100%;
+    position: relative;
+    -webkit-transition: -webkit-transform 0.4s;
+    -moz-transition: -moz-transform 0.4s;
+    transition: transform 0.4s;
+}
+.mycar .mybuycar_list .inner .saleOut:after{
+    content: "";
+    display: inline-block;
+    height: 100%;
+    vertical-align: middle;
+    width: 0;
+}
+.mycar .mybuycar_list .inner .saleOut{
+    position: absolute;
+    left:0;
+    top:0;
+    width: 100%;
+    height: 100%;
+    background: rgba(255,255,255,0.6);
+    border-radius:3px;
+    text-align: center;
+    font-size: 24px;
+    color:#ff6b6c;
+}
+.mycar .mybuycar_list .inner .saleOut span{
+    display: inline-block;
+    vertical-align: middle;
+    background: rgba(255,255,255,0.8);
+    padding:15px;
+    border-radius: 3px;
+}
+.mycar .mybuycar_list .innerA {
+    -webkit-transform: translateX(-44%);
+    -ms-transform: translateX(-44%);
+    transform: translateX(-44%);
+}
+
+.mycar .mybuycar_list .inner .shareicon {
+    height: 50px;
+    width: 60px;
+    border-left: 1px solid #f1f1f1;
+    margin-left: 20px;
+}
+
+.mycar .mybuycar_list .edit_panel {
+    display: none;
+    position: absolute;
+    right: 4%;
+    top: 50%;
+    margin: -22px 0 0;
+}
+
+.mycar .mybuycar_list .edit_panelS {
+    display: block;
+}
+
+.mycar .mybuycar_list .edit_panel .del_btn {
+    width: 70px;
+    background: #ff6d6c;
+    color: #fff;
+    font-size: 18px;
+    box-shadow: 0 1px 0 #d30100;
+    position: relative;
+    padding: 0 0 0 25px;
+}
+
+.mycar .mybuycar_list_edit {
+    -webkit-animation: lft-move 550ms ease-in-out;
+    padding: 0;
+    overflow: hidden;
+}
+
+.mycar .mybuycar_list_noedit {
+    -webkit-animation: rlt-move 550ms ease-in-out;
+    padding: 0;
+    overflow: visible;
+}
+
+.mycar .mybuycar_addnew_title {
+    text-align: center;
+    font-size: 32px;
+    line-height: 85px;
+    color: #a2a2a2;
+}
+
+
+.mycar .mybuycar_list_edit .edit_panel {
+    display: block;
+}
+
+.mycar .mybuycar_list_edit .inner {
+    width: 100%;
+    margin-left: 122px;
+}
+
+.mycar .mybuycar_list_edit .edit_panel {
+    background: #4a4d52;
+    height: 100%;
+    width: 122px;
+    float: left;
+    margin-right: -122px;
+}
+
+.mycar .mybuycar_addnew {
+    display:block;
+    height: 140px;
+    background: url(../imgs/newcar.png) no-repeat center center;
+    background-size: 168px auto;
+    text-align: center;
+    box-sizing: border-box;
+}
+
+.mycar .edit_panel .del_btn:before {
+    display: block;
+    content: "";
+    position: absolute;
+    height: 27px;
+    width: 27px;
+    left: 9px;
+    top: 10px;
+}
+
+.mycar .edit_panel .del_btn:before {
+    background-position: 1px -116px;
+}
+
+@media screen and (min-width: 400px) {
+    .mycar .mybuycar_list .pro_img_panel {
+        background-size: 180px auto;
+        margin-top: -60px;
+        width:180px;
+        height:120px;
+    }
+    .mycar .mybuycar_list .car_price{
+        padding-top:30px;
+        padding-bottom:30px;
+    }
+}
+
+
+/*lft-move */
+@-webkit-keyframes lft-move {
+    0% {
+        -webkit-transform: translate3d(-122px, 0, 0);
+    }
+    100% {
+        -webkit-transform: translate3d(0, 0, 0);
+    }
+}
+@-moz-keyframes lft-move {
+    0% {
+        -moz-transform: translate3d(-122px, 0, 0);
+    }
+    100% {
+        -moz-transform: translate3d(0, 0, 0);
+    }
+}
+@-ms-keyframes lft-move {
+    0% {
+        -ms-transform: translate3d(-122px, 0, 0);
+    }
+    100% {
+        -ms-transform: translate3d(0, 0, 0);
+    }
+}
+@keyframes lft-move {
+    0% {
+        transform: translate3d(-122px, 0, 0);
+    }
+    100% {
+        transform: translate3d(0, 0, 0);
+    }
+}
+
+/*rlt-move*/
+@-webkit-keyframes rlt-move {
+    0% {
+        -webkit-transform: translate3d(0, 0, 0);
+    }
+    100% {
+        -webkit-transform: translate3d(-122px, 0, 0);
+    }
+}
+@-moz-keyframes rlt-move {
+    0% {
+        -moz-transform: translate3d(0, 0, 0);
+    }
+    100% {
+        -moz-transform: translate3d(-122px, 0, 0);
+    }
+}
+@-ms-keyframes rlt-move {
+    0% {
+        -ms-transform: translate3d(0, 0, 0);
+    }
+    100% {
+        -ms-transform: translate3d(-122px, 0, 0);
+    }
+}
+@keyframes rlt-move {
+    0% {
+        transform: translate3d(0, 0, 0);
+    }
+    100% {
+        transform: translate3d(-122px, 0, 0);
+    }
+}
+
+/*分享层*/
+.mycar .shareDiv{
+    position: fixed;
+    bottom:0;
+    left:0;
+    right: 0;
+    background:rgba(255,255,255,1);
+    width: 100%;
+    z-index: 10000;
+    overflow:hidden;
+    -webkit-transform: translate3d(0px, 100%, 0px);
+    -moz-transform: translate3d(0px, 100%, 0px);
+    -ms-transform: translate3d(0px, 100%, 0px);
+    transform: translate3d(0px, 100%, 0px);
+    -webkit-transition: all ease-out .3s;
+    -moz-transition: all ease-out .3s;
+    -ms-transition: all ease-out .3s;
+    transition: all ease-out .3s;
+}
+.mycar .shareDiv ul{
+    padding:20px 0 25px;
+}
+.mycar .shareDiv h3 {
+    border-bottom: 1px solid #f1f1f1;
+    border-top: 5px solid #f8c623;
+    color: #000;
+    display: block;
+    font-size: 24px;
+    font-weight: normal;
+    height: 60px;
+    line-height: 60px;
+    margin: 0;
+    padding: 0;
+    text-align: center;
+}
+.mycar .shareDivUp{
+    -webkit-transform: translate3d(0px, 0%, 0px);
+    -moz-transform: translate3d(0px, 0%, 0px);
+    -ms-transform: translate3d(0px, 0%, 0px);
+    transform: translate3d(0px, 0%, 0px);
+}
+.mycar .bdshare-button-style0-16{
+    padding:0 !important;
+}
+.mycar .bdshare-button-style0-16 a.bds_tsina,
+.mycar .bdshare-button-style0-16 a.bds_tqq,
+.mycar .bdshare-button-style0-16 a.bds_weixin{
+    text-align: center;
+    padding: 70px 0 0;
+    margin:0;
+    color:#525252;
+}
+.mycar .bdshare-button-style0-16 a.bds_tsina{
+    background:url("../imgs/sinablog.png") no-repeat center top / 60px auto;
+}
+.mycar .bdshare-button-style0-16 a.bds_tqq{
+    background:url("../imgs/tencent.png") no-repeat center top / 60px auto;
+}
+.mycar .bdshare-button-style0-16 a.bds_weixin{
+    background:url("../imgs/wechat.png") no-repeat center top / 60px auto;
+}
+#shareOver{
+    position: fixed;
+    top:5px;
+    left: 5%;
+    z-index: 9999999;
+    width: 90%;
+}
+
+/*引导层*/
+.mycar .Guide{position: absolute; left:0; top:125px; z-index: 100000; width:100%; height:300px; overflow: hidden; }
+.mycar .Guide img{width:100%; height: 100%;}
+
+/*团购*/
+.mycar .txt-tuan{
+    position: relative;
+    display: inline-block;
+    margin-left: 10px;
+    padding: 0 6px;
+    height: 18px;
+    line-height: 18px;
+    color: #fff;
+    background-color: #E7223E;
+    border-radius: 2px;
+}
+.mycar .txt-tuan::before{
+    content: '';
+    position: absolute;
+    top: 6px;
+    left: -6px;
+    width: 0;
+    height: 0;
+    border: 3px solid rgba(255,255,255,0);
+    border-right-color: #E7223E;
+}
+
+/* 车达人 */
+/*.car-expert{padding-top:0 !important;}*/
+.car-expert .payBtn{display:none !important;}
+/*.car-expert .mybuycar_addnew{/*display:none !important;}*/
+/*.car-expert .Guide{top:75px !important;}*/

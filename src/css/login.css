@@ -1,0 +1,169 @@
+.vlogin {
+  height: 100%;
+  overflow-y: auto;
+  background-color: #f5f5f5;
+}
+/*注册会员右侧文字*/
+a.vlogin.nav_txt{
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  overflow: hidden;
+  vertical-align: middle;
+  text-align: center;
+  font-size: 16px;
+  color: #FFFFFF;
+  background-color: #2A2D33;
+}
+.vlogin .mainPanel {
+  padding-top: 15px;
+}
+.vlogin .tb1 {
+  width: 318px;
+  border: 1px solid #d2d2d2;
+  border-radius: 10px;
+  margin: 0 auto 20px;
+}
+.vlogin .regBox .formInput table {
+  width: 100%;
+  background-color: #fff;
+  font-size: 15px;
+  border-radius: 10px;
+}
+.vlogin .regBox .formInput th,
+.vlogin .regBox .formInput td {
+  height: 44px;
+}
+.vlogin .regBox .formInput th.label_log {
+  width: 77px;
+  padding: 0 5px 0 7px;
+  color: #333;
+  font-weight: normal;
+}
+.vlogin .regBox .formInput .bor_t {
+  border-top: 1px solid #e0e0e0;
+}
+.vlogin .regBox .formInput .short_msg,
+.vlogin .regBox .formInput .short_msg .intxt {
+  width: 137px;
+}
+.vlogin .regBox .formInput .send_btn {
+  width: 92px;
+  border-left: 1px solid #e0e0e0;
+  text-align: center;
+}
+.vlogin .regBox .formInput .send_btn a span,
+.vlogin .regBox .formInput .send_btn .tipReget {
+  color: #eb5e00;
+}
+.vlogin .secCheckbox {
+  width: 320px;
+  height: 50px;
+  line-height: 50px;
+  padding-left: 1px;
+  margin: 0 auto;
+}
+.vlogin .secCheckbox .agreement {
+  padding: 0;
+  text-decoration: underline;
+  background-color: transparent;
+}
+.vlogin .secCheckbox a span {
+  color: #8a8a8a;
+}
+.vlogin .secCheckbox .checkbox_wrap {
+  display: inline-block;
+  width: 24px;
+  height: 24px;
+  overflow: hidden;
+  vertical-align: middle;
+  margin-right: 5px;
+  border: 1px solid #ccc;
+  border-radius: 50% 50%;
+}
+.vlogin .secCheckbox .checkbox_checked {
+  background: url(../imgs/ico_sprite.png) no-repeat -30px -118px;
+  background-size: 97px 177px;
+  border-color: #f5f5f5;
+}
+.vlogin .btnPanel {
+  width: 320px;
+  margin: 0 auto;
+}
+.vlogin .btn_regst,
+.vlogin .btn_login {
+  display: block;
+  margin: 5px auto;
+  height: 44px;
+  font-size: 18px;
+  line-height: 44px;
+  background-color: #f7de8c;
+  border-color: #f7de8c;
+  color: #8d8d8d;
+  text-align: center;
+  border-radius: 4px;
+}
+.vlogin a.btn_regst:active,
+.vlogin a.btn_login:active {
+  background-color: #e0b31f;
+  color: #fff;
+}
+.vlogin a.btn_able{
+  background-color: #f9c523;
+  color: #222;
+}
+.vlogin .login_txline {
+  width: 310px;
+  padding: 0 5px;
+  margin: 0 auto;
+  height: 56px;
+  line-height: 56px;
+}
+.vlogin .login_txline a {
+  color: #595959;
+}
+.vlogin .login_txline a.forget {
+  float: right;
+  color: #b3b3b3;
+}
+.vlogin .wx_login {
+  width: 310px;
+  padding: 0 5px;
+  margin: 0 auto;
+  height: 40px;
+  line-height: 40px;
+  color: #595959;
+}
+.vlogin .wx_ico {
+  display: block;
+  width: 33px;
+  height: 27px;
+  overflow: hidden;
+  background: url(../imgs/ico_sprite.png) no-repeat 0 -145px;
+  background-size: 97px 177px;
+  margin: 8px 0 0 8px;
+}
+.vlogin .prompt{
+  height: 0;
+  opacity: 0;
+  overflow: hidden;
+  width: 100%;
+  background-color: #FD7D7C;
+  color: #FEFEFE;
+  font-size: 16px;
+  -webkit-transition: all .3s ease;
+  transition: all .3s ease;
+}
+.vlogin .anmi{ height: 70px; opacity: 1;}
+.vlogin .prompt .bd{
+  padding: 10px 25px;
+}
+.vlogin .prompt label{
+  display: block;
+}
+.vlogin .resetPanel{ display: none;}
+.vlogin .intxt{
+    height: 22px;
+    line-height: 22px;
+    padding: 10px 0;
+}

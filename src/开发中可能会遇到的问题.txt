@@ -1,0 +1,82 @@
+1
+问题：
+	子页面头部 和 公共的头部可能不同
+	如：
+	car-series-list.html 中间选择车系部分。
+	insurance.html 点击保险公司右侧，展示说明的时候。点击返回只是控制显示隐藏图层。
+
+解决：
+	因为头部是公共的，虽然可以通过子组件事件传播的方式来满足需求，但是复杂了组件之间的逻辑。
+	可以直接在子组件中声明一个单独的头部，高度和公共相同。
+	因为组件是后面进入到页面中的，所以会默认覆盖在公共的头部上面。
+
+2
+问题：
+	在调试的时候，平常打log(可以看到对象)，但是在vue中，输出的对象都带有get，set
+
+解决：
+	使用 this.$log(obj);但是用这种方式只能打对象的一层。用封装后的YMC.log(obj)来打印
+
+3
+禁止在层上滑动(比如：背景层，不想让用户滚动)
+@touchstart.stop.prevent
+
+4
+如果要阻止默认事件，一定要写在前面，否则会影响其他事件绑定
+@touchmove.stop.prevent @click.stop="show=false"
+
+5
+有的页面可能需要一个虚拟的loading效果。
+在 router:{
+    data:function(){
+        //调用
+        router.app.$emit('showVirtualLoading');
+    }
+}
+
+6
+比如进入 orderTrack 页面，发现并没有内容，
+此时使用 router.replace({name:'orderTrackN'});跳转到无订单跟踪页面
+这样会导致，点击返回的时候，会继续进入orderTrack 结果又进入orderTrackN，结果死循环出不去了。
+是因为，每次页面切换完毕后，会把当前路径存入全局RouteList中。
+类似这样的跳转可以使用下面的代码
+routeList.splice(routeList.length-1,1);
+router.replace({name:'orderTrackN'});
+
+7
+关于分享： 进入页面 在data函数中配置下
+// router.app.shareCfg = {
+//     title:'标题不可为空',
+//     content:'',
+//     url:location.href,
+//     imgUrl:'xx.jpg'
+// }
+与 router.app.customTop.share = true; 配合使用
+点击，顶部右上角分享时会分享所配置内容。
+
+8
+针对有时候过场动画没有完成，下一页还未切入进来
+此时操作dom失败。
+尝试十次。
+使用：
+    YMC.waitDomInsert(function(){
+        console.log('waitDomInsert...');
+        //页面有dom的时候返回true
+        if($('#insurance_step2 .ins-title').length){
+
+            _this.fixedNavTop = $('#insurance_step2 .ins-title').eq(_this.navIndex).offset().top;
+            //满足条件后要return true
+            return true;
+        }
+    });
+
+9
+版本控制
+index.tpl 是模板文件，
+当在git bash输入
+"PRODUCTION=1 webpack --progress"
+会在根目录生成index_dev.html，里面的资源都打上了md5戳。
+发布的时候只需要发布 index_dev.html以及n-build文件夹
+
+在mac下   npm run macbuild
+windows   npm run build

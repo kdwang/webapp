@@ -1,0 +1,5 @@
+node_modules/
+n-build/
+npm-debug.log
+index.html
+/.project

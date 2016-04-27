@@ -1,0 +1,389 @@
+/*checkout*/
+.vcheckout .none{
+    display: none;
+}
+.vcheckout .checkout {
+    overflow: hidden;
+    color: #595959;
+}
+.vcheckout .checkout .car {
+    color: #595959;
+    background-color: white;
+    min-height: 140px;
+    position: relative;
+    border-top: 1px solid #f1f1f1;
+}
+
+.vcheckout .checkout .car .carImg {
+    width: 50%;
+    min-height: 140px;
+    float: left;
+    background-position: 0 center;
+    background-repeat: no-repeat;
+    background-size: 100% auto;
+}
+
+@media screen and (min-width:500px){
+    .vcheckout .checkout .car .carImg {
+        background-size: 280px auto;
+    }
+}
+.vcheckout .checkout .car .name {
+    padding: 20px 0 10px 0;
+    float: left;
+    width: 50%;
+}
+
+.vcheckout .checkout .car .name p {
+    margin-top: 6px;
+    font-size: 12px;
+}
+.vcheckout .checkout .car .name p em{
+    color:#6f6f6f;
+    display: block;
+    margin-bottom: 5px;
+}
+.vcheckout .checkout .car .name p i{
+    font-size: 10px;
+    font-style: normal;
+}
+
+.vcheckout .checkout .car .name h2 {
+    font-size: 16px;
+}
+
+.vcheckout .checkout .scheme li.title {
+    margin: 0;
+    padding:10px 0 10px 15px;
+    font-size: 16px;
+    border-top:1px solid #f1f1f1;
+    border-bottom:1px solid #f1f1f1;
+    background: #fff;
+    color:#333;
+}
+.vcheckout .checkout .scheme li.question{
+   position: relative;
+}
+
+.vcheckout .checkout .scheme {
+    background-color: #fff;
+    font-size:14px;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.vcheckout .checkout .scheme li {
+    border-bottom: 1px solid #f1f1f1;
+    margin:0 18px;
+    font-size: 15px;
+    position: relative;
+    padding:15px 0 15px 0;
+    color: #666;
+}
+.vcheckout .checkout .scheme li.item_arr-down {
+    padding-right: 25px;
+}
+.vcheckout .checkout .scheme li:last-child {
+    border-bottom:none;
+}
+
+
+
+.vcheckout .checkout .scheme li.title a {
+    /*background: url(../imgs/question.png) left 6px no-repeat;*/
+    width: 30px;
+    height: 31px;
+    display: inline-block;
+    background-size: 30px 31px;
+    cursor: pointer;
+}
+
+.vcheckout .checkout .scheme li.title a:hover {
+    /*background: url(../imgs/question_hover.png) left 6px no-repeat;*/
+    background-size: 30px 31px;
+}
+
+.vcheckout .checkout .scheme li.title .tip {
+    position: absolute;
+    width: 300px;
+    height: auto;
+    border: 1px solid #d4d4d4;
+    border-radius: 3px;
+    padding: 20px;
+    background-color: white;
+    z-index: 4;
+    left: 140px;
+    top: 5px;
+    display: none;
+}
+
+.vcheckout .checkout .scheme li.openT {
+    margin:-1px 0 0;
+    background: #f0f0f0;
+    padding:0;
+}
+
+.vcheckout .checkout .scheme li span {
+    float: right;
+    font-size: 14px;
+    color: #999;
+}
+.vcheckout .checkout .scheme li.item_arr-down:before{
+    right:0;
+}
+
+.vcheckout .checkout .scheme li .ex_oper {
+     color:#595959;
+     padding: 10px 18px;
+}
+.vcheckout .checkout .scheme li .ex_oper dt{
+  font-size:12px;
+  padding:10px 25px 10px 0;
+  border-bottom: 1px solid #ccc;
+
+}
+.vcheckout .checkout .scheme li .ex_oper dt.lastL{
+    margin-top:-1px;
+    border-bottom:none;
+}
+.vcheckout .checkout .scheme li .ex_oper dt span{
+     right:38px;
+}
+
+.vcheckout .checkout .scheme li .ex_oper dd{
+     line-height:22px;
+     padding:15px 0 15px 10px;
+     font-size:14px;
+}
+
+
+.vcheckout .checkout .price {
+    font-size: 16px;
+    text-align: right;
+    height:40px;
+    color:#595959;
+    line-height: 40px;
+    border-bottom: 1px solid #f1f1f1;
+    padding: 10px 20px 10px 0;
+}
+
+.vcheckout .checkout .price span {
+    color: #fe6863;
+    font-size: 21px;
+}
+
+.vcheckout .checkout .agree {
+     color:#595959;
+    line-height: 40px;
+    height:40px;
+    background-color: white;
+    padding: 10px 0 10px 18px;
+    border-bottom: 1px solid #f1f1f1;
+    font-size: 14px;
+}
+
+.vcheckout .checkout .agree span a{
+    text-decoration: underline;
+}
+
+.vcheckout .checkout .checkbox_wrap {
+    display: inline-block;
+    width: 18px;
+    height: 18px;
+    border: 1px solid #cbcbcb;
+    border-radius: 50% 50%;
+    vertical-align: -5px;
+    margin-right: 5px;
+}
+
+.vcheckout .checkout .userinfo {
+    margin:18px;
+    background-color: white;
+    -moz-border-radius: 5px;
+    /* Gecko browsers */
+
+    -webkit-border-radius: 5px;
+    /* Webkit browsers */
+
+    border-radius: 5px;
+    border: 1px solid #f1f1f1;
+}
+
+.vcheckout .checkout .userinfo li {
+    line-height: 50px;
+    padding: 0px 0px 0px 20px;
+    border-bottom: 1px solid #f1f1f1;
+    font-size: 14px;
+    position: relative;
+    color:#595959;
+}
+
+.vcheckout .checkout .userinfo li.last {
+    border: 0;
+}
+
+.vcheckout .checkout .userinfo input{
+     color:#b3b3b3;
+}
+.vcheckout .checkout .userinfo li a {
+    color:#eb6100;
+    border-left: 1px solid #f1f1f1;
+    display: inline-block;
+    line-height: 50px;
+    position: absolute;
+    right: 20px;
+    padding-left: 10px;
+}
+
+.vcheckout .checkout .chosePayTypeTit {
+    color:#6f6f6f;
+    font-size: 14px;
+    padding:0 18px 10px 18px;
+    position: relative;
+    height: 40px;
+    line-height: 40px;
+    font-weight: normal;
+}
+
+.vcheckout .checkout .chosePayTypeTit span {
+    position: absolute;
+    right: 18px;
+    font-size: 16px;
+}
+
+.vcheckout .checkout .chosePayTypeTit span i,
+.vcheckout .checkout .chosePayTypeTit span em {
+    color: #fe6863;
+    font-size: 20px;
+}
+.vcheckout .checkout .txt-tip{
+    padding: 10px 18px;
+    font-size: 14px;
+    line-height: 20px;
+    background-color: #fff;
+    color: #999;
+}
+.vcheckout .checkout .chosePayType {
+    background-color: white;
+    text-align: center;
+    border-top: 1px solid #d4d4d4;
+    padding:15px 18px;
+}
+
+.vcheckout .checkout .chosePayType a {
+    width: 48%;
+    height: 50px;
+    border: 1px solid #f1f1f1;
+    border-radius: 5px;
+    display: inline-block;
+}
+
+.vcheckout .checkout .chosePayType a.btnAlipay {
+    background: url("../imgs/payZFB.jpg") no-repeat center center;
+    background-size: contain;
+}
+
+.vcheckout .checkout .chosePayType a.btnWeixinpay {
+    background: url("../imgs/payWX.jpg") no-repeat center center;
+    background-size: contain;
+}
+
+.vcheckout .checkout .errMsg {
+    background: #fd7d7c;
+    line-height: 40px;
+    padding: 10px 20px 10px 20px;
+    color: white;
+}
+
+.vcheckout .checkout .checkbox_checked {
+    background: #f6d052;
+    border-color: #f6d052;
+    position: relative;
+}
+
+.vcheckout .checkbox_only_checked {
+    background: none;
+    border: none;
+    position: relative;
+}
+
+.vcheckout .checkbox_only_checked:before,
+.vcheckout .checkbox_checked:before {
+    content: "";
+    width: 5px;
+    height: 10px;
+    left:6px;
+    top:2px;
+    display: block;
+    position: absolute;
+    border-bottom: 1px solid #000;
+    border-right: 1px solid #000;
+     -webkit-transform: rotate(45deg);
+    -moz-transform: rotate(45deg);
+    -o-transform: rotate(45deg);
+    transform: rotate(45deg);
+}
+
+.vcheckout .checkbox_box {
+    border-radius: 0;
+}
+.vcheckout .favorable {
+    margin: 16px auto 0;
+    width: 94%;
+}
+.vcheckout .favorable #p1,.favorable #p2{
+    float: left;
+}
+.vcheckout .favorable #p1 {
+    margin-right:2%;
+    width: 73%;
+}
+.vcheckout .favorable #p1 .menu1 {
+    background:#fff;
+    color: #666;
+    border: 1px solid #d4d4d4;
+    border-radius: 5px;
+    font-size: 14px;
+    height: 36px;
+    line-height: 36px;
+    padding-left: 3%;
+    width: 96%;
+}
+
+.vcheckout .favorable #p2 {
+    text-align: left;
+    width: 25%;
+}
+.vcheckout .favorable #p2 .menu2 {
+    background: #ffd800;
+    border: 1px solid #ffd800;
+    border-radius: 5px;
+    color: #555;
+    font-size: 14px;
+    height: 36px;
+    line-height: 36px;
+    text-align: center;
+    width: 100%;
+}
+/*tuan's tag*/
+.vcheckout .txt-tuan{
+    position: relative;
+    display: inline-block;
+    height: 18px;
+    margin-left: 4px;
+    padding: 0 6px;
+    font-size: 14px;
+    line-height: 18px;
+    color: #fff;
+    background-color: #E7223E;
+    border-radius: 2px;
+}
+.vcheckout .txt-tuan::before{
+    content: '';
+    position: absolute;
+    top: 6px;
+    left: -6px;
+    width: 0;
+    height: 0;
+    border: 3px solid rgba(255,255,255,0);
+    border-right-color: #E7223E;
+}

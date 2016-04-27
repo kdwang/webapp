@@ -1,0 +1,43 @@
+{
+  "name": "webpack",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "extract-text-webpack-plugin": "^0.8.2"
+  },
+  "devDependencies": {
+    "css-loader": "^0.20.2",
+    "cssnext-loader": "^1.0.1",
+    "fastclick": "^1.0.6",
+    "file-loader": "^0.8.5",
+    "html-loader": "^0.3.0",
+    "html-webpack-plugin": "^1.7.0",
+    "iscroll": "^5.1.3",
+    "jshint": "^2.9.1",
+    "jshint-loader": "^0.8.3",
+    "style-loader": "^0.12.3",
+    "swiper": "^3.2.0",
+    "url-loader": "^0.5.7",
+    "vue": "^1.0.11",
+    "vue-html-loader": "^1.0.0",
+    "vue-loader": "^4.0.10",
+    "vue-router": "^0.7.7",
+    "webpack": "^1.12.3",
+    "webpack-dev-server": "^1.12.1",
+    "webpack-zepto": "0.0.1"
+  },
+  "scripts": {
+    "start": "export PRODUCTION=1 && webpack --progress --hide-modules",
+    "build":"set PRODUCTION=1 && webpack --progress --hide-modules",
+    "dev": "webpack-dev-server --progress --profile --colors --inline",
+    "port": "webpack-dev-server --inline --port 9090 ",
+    "ip": "webpack-dev-server  --progress --colors --hot --inline --host=0.0.0.0  --port 8080"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "http://121.40.64.6:90/git/WebApp.git"
+  },
+  "description": ""
+}

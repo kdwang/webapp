@@ -1,0 +1,704 @@
+.ia, .iap:before{
+	display: inline-block;
+	background-image: url(../imgs/ico_act.png);
+	background-repeat: no-repeat;
+	background-size: 116px 185px;
+}
+.iap:before{
+	content: "";
+}
+.ico-yes-bg{
+	width: 54px;
+	height: 54px;
+	display: inline-block;
+	background: url(../imgs/ico-yes-bg.png) no-repeat;
+	background-size: 54px 54px;
+}
+.ico-rushcode{
+	width: 180px;
+	height: 190px;
+	display: inline-block;
+	background: url(../imgs/ico-rushcode.png) no-repeat;
+	background-size: 180px 190px;
+}
+.ia-1{
+	width: 30px;
+	height: 24px;
+}
+.ia-2{
+	width: 38px;
+	height: 24px;
+	background-position: -32px 0;
+}
+.ia-3{
+	width: 26px;
+	height: 20px;
+	background-position: 0 -39px;
+}
+.ia-4{
+	/*width: 86px;
+	height: 67px;*/
+	width: 44px;
+	height: 44px;
+	background-position: 0 -61px;
+}
+.ia-5{
+	width: 24px;
+	height: 24px;
+}
+.ia-5-1{
+	background-position: -26px -37px;
+}
+.ia-5-2{
+	background-position: -50px -37px;
+}
+.ia-5-3{
+	background-position: -76px -37px;
+}
+.ia-5-4{
+	background-position: 0 -130px;
+}
+.ia-5-5{
+	background-position: -26px -130px;
+}
+.ia-5-6{
+	background-position: -52px -156px;
+}
+.ia-6{
+	width: 12px;
+	height: 10px;
+	background-position: -62px -26px;
+}
+.ia-7{
+	width: 21px;
+	height: 21px;
+	background-position: -52px -130px;
+}
+.ia-8, .ia-9{
+	width: 7px;
+	height: 103px;
+}
+.ia-8{
+	background-position: -100px 0;
+}
+.ia-9{
+	background-position: -109px 0;
+}
+.ia-10{
+	width: 20px;
+	height: 20px;
+	background-position: -76px -130px;
+}
+.ia-11{
+	width: 50px;
+	height: 26px;
+	background-position: 0 -156px;
+}
+.ia-12,.ia-13{
+	width: 20px;
+	height: 20px;
+}
+.ia-12{background-position: 0 -107px;}
+.ia-13{background-position: -21px -107px;}
+.ia_arr-prev,
+.ia_arr-next{
+	width: 28px;
+	height: 15px;
+	background-color: #fff;
+}
+.ia_arr-prev{
+	background-position: 0 -24px;
+}
+.ia_arr-next{
+	background-position: -30px -24px;
+}
+.iap-back:before{
+	width: 12px;
+	height: 20px;
+	background-position: -72px 0;
+}
+
+.cff4c66{color: #ff4c66;}
+.cf22d26{color: #f22d26}
+.cfe6863{color: #fe6863;}
+.c4{color: #ccc}
+
+.actpage{
+	background-color: #f0f0f0;
+}
+.actpage .pagetitle{
+	color: #fff;
+	background-color: #2a2d33;
+}
+.rushpage .pagetitle .iap-back{
+	position: absolute;
+	top: 0;
+}
+.rushpage .pagetitle .iap-back:active{
+	background-color: #424242;
+}
+.rushpage .pagetitle .iap-back:before{
+	position: absolute;
+	top:50%;
+	left: 50%;
+	margin-top: -10px;
+	margin-left: -6px;
+}
+.notice{
+	position: relative;
+	margin-bottom: 10px;
+	padding: 15px 0;
+	background-color: #fff;
+}
+.notice .notice-ico{
+	position: absolute;
+	top: 15px;
+	left: 0;
+	width: 20%;
+	padding: 8px 0;
+	border-right: 1px solid #E4E4E4;
+	text-align: center;
+	font-size: 0;
+}
+.notice .notice-info{
+	min-height: 42px;
+	margin-left: 20%;
+	padding-left: 4%;
+}
+.notice-info .line-1{
+	padding-top: 10px;
+}
+/*倒计时*/
+.countdown{
+	font-size: 12px;
+	line-height: 20px;
+}
+.countdown i{
+	display: inline-block;
+	width: 26px;
+	height: 20px;
+	margin: 0 2px;
+	text-align: center;
+	color: #fff;
+	letter-spacing: 5px;
+	text-indent: 4px;
+	background-image: url(../imgs/ico_act.png);
+	background-repeat: no-repeat;
+	background-size: 116px 185px;
+	background-position: 0 -39px;
+}
+.act-bill .countdown i{
+    width: 18px;
+    background: #fe6863;
+    text-indent: 0;
+    letter-spacing: 0;
+}
+.rushpage .btm-hd{
+	position: relative;
+    height: 44px;
+    font-size: 14px;
+    padding-left: 10px;
+    line-height: 44px;
+    color: #333;
+}
+
+.rushpage .btm-hd li a {
+    display: block;
+    width: 100%;
+    height: 100%
+}
+
+.rushpage .btm-hd .btm-hd-more,
+.act-status-hd .btm-hd-more {
+    position: absolute;
+    height: 40px;
+    top: 0;
+    right: 7px;
+    color: #666;
+    font-size: 14px
+}
+.rushpage .btm-hd .btm-hd-more{right: 12px;height: 44px;color: #333;}
+.act-status-hd, .act-btn-panel{
+	position: relative;
+    height: 40px;
+	padding:0 16px;
+    line-height: 40px;
+    background-color: #fff;
+}
+.act-status-hd{
+    font-size: 13px;
+}
+.act-status-hd .act-status-tag{
+	float: right;
+}
+.act-btn-panel{
+    font-size: 12px;
+}
+.act-btn-panel .btn{
+	float: right;
+	height: 24px;
+	width: auto;
+	margin: 7px 0 0 10px;
+	padding: 0 14px;
+	font-size: 12px;
+	line-height: 24px;
+	color: #666;
+	border-color: #999;
+}
+.act-btn-panel .btn2{
+	color: #e3a716;
+	border-color: #F9C524;
+}
+
+.rushpage .car_logo_outer_wrap {
+    position: relative;
+    /*margin-bottom: 10px;*/
+    overflow: hidden;
+    height: 100px;
+    background-color: #fff;
+}
+.rushpage .car_logo_wrap-view{
+	position: relative;
+    max-width: 540px;
+    margin: 0 auto;
+    overflow: hidden;
+    background-color: #fff;
+    /*box-shadow: 0px 1px 4px rgba(0,0,0,.5);*/
+}
+.rushpage .car_logo_wrap {
+	height: 100px;
+	background-color: #fff;
+    /*-webkit-transition: all .3s ease-out;
+    -ms-transition: all .3s ease-out;
+    transition: all .3s ease-out*/
+}
+.rushpage .car_logo_sec{
+	float: left;
+	height: 100px;
+	width: 100%;
+	overflow: hidden;
+	/*background-color: #2a2d33;*/
+	background-color: #fff;
+}
+.rushpage .car_logo_wrap-view .ia_arr{
+	position: absolute;
+	top: 50%;
+	margin-top: -7px;
+}
+.rushpage .car_logo_wrap-view .ia_arr-prev{
+	display: none;
+	left: 0;
+}
+.rushpage .car_logo_wrap-view .ia_arr-next{
+	right: 0;
+}
+.rushpage .car_logo_fix {
+    position: fixed;
+    top: 50px;
+    z-index: 100;
+    width: 100%;
+    left: 0;
+    /*border-bottom: 1px solid #E4E4E4;*/
+    /*background-color: #fff;*/
+    -webkit-animation: carlogo .3s ease-out;
+    -ms-animation: carlogo .3s ease-out;
+    animation: carlogo .3s ease-out;
+}
+
+.rushpage .car_logo {
+    position: relative;
+    overflow: hidden;
+    float: left;
+    width: 20%;
+    height: 50px;
+    line-height: 50px;
+    /*border-right: 1px solid #21242b;
+    border-bottom: 1px solid #21242b;
+    background-color: #2a2d33;*/
+    border-right: 1px solid #f4f4f4;
+    border-bottom: 1px solid #f4f4f4;
+    background-color: #fff;
+    text-align: center;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+    box-sizing: border-box
+}
+.rushpage .car_logo img {
+	display: block;
+	max-width: 100%;
+	height: 40px;
+    margin: 5px auto;
+}
+
+/*.rushpage .car_logo:not(:nth-child(5n+1)) {
+    border-left: 1px solid #21242b
+}*/
+.rushpage .car_logo:nth-child(5n) {
+    border-right: none;
+}
+.rushpage .car_logo.car_logo-on{
+    /*background-color: #21242b;*/
+    background-color: #f8f8f8;
+}
+
+.act-con{
+	border-top: 1px solid #E4E4E4;
+    -webkit-overflow-scrolling: touch;
+}
+.act-con .act-prodinfo{
+	position: relative;
+	min-height: 75px;
+	padding: 10px 6px;
+	border-bottom: 1px solid #f0f0f0;
+	overflow: hidden;
+	background-color: #fff;
+}
+.act-con .act-prodinfo.act-prodinfo-1{min-height: 100px;}
+.act-prodinfo .act-prodinfo-link{display: block;width: 100%;}
+.act-prodinfo .act-sec-left{
+	position: absolute;
+	top: 6px;
+	left: 6px;
+	width: 30%;
+	height: 75px;
+	overflow: hidden;
+}
+.act-prodinfo-1 .act-sec-left{height: 100px;}
+.act-sec-left .act-prod-img{
+    display: block;
+	max-width: 100%;
+    max-height: 100%;
+    margin: 0 auto;
+}
+.act-prodinfo .act-sec-main{
+	margin-left: 32%;
+	font-size: 12px;
+	color: #999;
+}
+.act-sec-main .act-cartitle{
+	height: 32px;
+	font-size: 14px;
+	font-weight: normal;
+	color: #040404;
+	line-height: 16px;
+	overflow: hidden;
+}
+.act-sec-main .act-enrollment{
+	margin:10px 0;
+	color: #444;
+}
+.act-sec-main .price-list{
+	position: relative;
+	margin-top: 8px;
+	line-height: 16px;
+}
+.act-prodinfo-1 .act-sec-main .price-list{
+	margin-top: 10px;
+}
+.price-list del{
+	color: #ccc;
+}
+.price-list del + del{
+	margin-left: 8px;
+}
+.price-list .txt-price{
+	font-size: 20px;
+}
+.price-list .act-price{
+	position: absolute;
+	bottom: 14px;
+	right: 0;
+}
+.act-price .ia-2{
+	vertical-align: -6px;
+}
+.rushpage .act-btn,
+.rushenroll .act-btn,
+.rush-usr .act-btn{
+	display: block;
+	width: 100%;
+	height: 44px;
+	margin: 10px auto 0;
+	line-height: 44px;
+	text-align: center;
+	color: #fff;
+	border-radius: 4px;
+}
+.rushpage .act-btn::before,
+.rushpage .act-btn::after,
+.rushenroll .act-btn::before,
+.rushenroll .act-btn::after,
+.rush-usr .act-btn::before,
+.rush-usr .act-btn::after{
+	content: initial;
+}
+.act-btn.act-btn-md{width: 68%;}
+.act-btn.act-btn-1{
+	background-color: #f65252;
+}
+.act-btn.act-btn-2{
+	background-color: #ddd;
+}
+.act-btn.act-btn-3{
+	background-color: #FD6862;
+}
+.act-btn.act-btn-4{
+	color: #3a312e;
+	background-color: #F7CF15
+}
+.act-btn-md{
+	width: 50%;
+	text-align: center;
+}
+.act-btn-md-1{
+	color: #666;
+	background-color: #fff
+}
+.act-btn.act-btn-1:active{background-color: #dc3e3e}
+.act-btn-md:active{
+	opacity: .8;
+}
+.act-btn-md-2{
+	color: #fff;
+	background-color: #fe6863
+}
+.act-btn-md-3{
+	color: #666;
+	background-color: #D5D5D5
+}
+.act-prodinfo .ia-4{
+	position: absolute;
+	top: 52px;
+	right: 6px;
+}
+.my-rush{
+	padding: 6px 12px;
+	border-top: 1px solid #F4F4F4;
+	background-color: #fff;
+	color: #333;
+}
+.rushpage .car_logo_outer_wrap + .my-rush{
+	margin-top: -10px;
+}
+.my-rush .btm-hd{
+	height: 30px;
+	padding-left: 0;
+	line-height: 30px;
+	font-size: 12px;
+}
+.my-rush .btm-hd-more{
+	height: 30px;
+	font-size: 12px;
+	color: #e1b900;
+}
+.act-sec-main .act-price-steps{
+	margin-top: 6px;
+}
+.act-sec-main .act-cardecor{
+	font-size: 12px;
+	color: #999;
+}
+.act-prodinfo-1 .act-sec-main .act-cardecor{margin: 10px 0;}
+.rushpage .act-price-steps li,
+.rush-usr .act-price-steps li{
+	float: left;
+	width: 32%;
+	padding:4px 0 0;
+	border: 1px dashed #E4E4E4;
+	text-align: center;
+	color: #999;
+	font-size: 12px;
+	line-height: 1.2;
+	-webkit-box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	box-sizing: border-box;
+}
+.rushpage .act-price-steps li + li,
+.rush-usr .act-price-steps li + li{
+	margin-left: 2%;
+}
+.rushpage .act-price-step h3,
+.rush-usr .act-price-step h3{
+	font-size: 15px;
+}
+.rushpage .act-price-step .cf22d26,
+.rush-usr .act-price-step .cf22d26{
+	margin-top: 4px;
+	font-size: 15px;
+}
+
+.enroll-info .item{
+	position: relative;
+	height: 50px;
+	padding: 10px 16px;
+	color: #666;
+}
+.enroll-info .item_left,
+.enroll-info .item_right{
+	height: 30px;
+	line-height: 30px;
+	font-size: 14px;
+}
+.enroll-info .item_left{
+	position: relative;
+	padding-left: 30px;
+}
+.enroll-info .item_left .ia-5{
+	position: absolute;
+	left: 0;
+	top: 2px;
+}
+.enroll-info .item_right{
+	position: relative;
+	padding-right: 0;
+	padding-left: 10px;
+	border-left: 1px solid #E4E4E4;
+	text-align: left;
+}
+.enroll-info .item_right input{
+	width: 100%;
+	height: 30px;
+	line-height: 30px;
+}
+.enroll-info .item_right .ia-6{
+	position: absolute;
+	right: 0;
+	top: 10px;
+}
+.enroll-info .item .ia-7{
+	position: absolute;
+	top: 13px;
+	right: 15px;
+	border: 1px solid #BABABA;
+	border-radius: 12px;
+	background-position: 100px;
+}
+.enroll-info .item-on .ia-7{
+	background-position: -52px -130px;
+	border-color: #56D780;
+	background-color: #56D780;
+}
+.enroll-sec{
+	padding: 0 16px;
+}
+.enroll-sec-tlt, .enroll-sec-txt{
+	padding-top: 6px;
+	padding-bottom: 6px;
+}
+.enroll-sec-txt{
+	font-size: 12px;
+	line-height: 14px;
+	color: #999;
+}
+/*活动订单*/
+.act-bill{
+	margin-bottom: 10px;
+}
+.act-bill .act-prodinfo{
+	position: relative;
+	min-height: 90px;
+	padding: 6px 0 6px;
+	border-top: 1px solid #F0F0F0;
+	border-bottom: 1px solid #F0F0F0;
+	background-color: #fff;
+}
+.act-bill .act-cartitle{
+	width: 100%;
+	height: 18px;
+}
+.act-sec-main .act-cartitle-singline{height: auto;}
+.act-bill .act-price{
+	margin:15px 0;
+}
+.act-bill .txt-price{
+	margin-right: 1em;
+	font-size: 15px;
+}
+.act-bill .act-prodinfo .act-sec-left{
+	height: 90px;
+	overflow: visible;
+}
+.act-bill .act-prodinfo .act-sec-main{
+	margin-left: 33%;
+	padding-top: 2px;
+}
+.act-bill .act-sec-left .act-num{
+	width: 100%;
+	height: 18px;
+	font-size: 12px;
+	line-height: 18px;
+	color: #fff;
+	background-color: #fe6863;
+	text-align: center;
+}
+.act-num .act-car-num{
+	float: right;
+	height: 16px;
+	padding: 0 2px;
+	border: 1px solid #fe6863;
+	line-height: 16px;
+	background-color: #fff;
+	color: #fe6863;
+	text-align: center;
+	overflow: hidden;
+}
+.act-coupon-code{
+	position: relative;
+	height: 24px;
+	width: 72px;
+	margin-left: 48px;
+	margin-top: 6px;
+	padding-left: 6px;
+	border: 1px solid #fe6863;
+	border-radius: 2px;
+	font: 14px/24px Consolas, monospace;
+}
+.act-coupon-code::before{
+	content: "";
+	position: absolute;
+	top:-1px;
+	left: -49px;
+	width: 50px;
+	height: 26px;
+	background-image: url(../imgs/ico_act.png);
+	background-repeat: no-repeat;
+	background-size: 116px 185px;
+	background-position: 0 -156px;
+}
+.act-bill .act-price + .act-coupon-code,
+.act-bill .act-price + .act-price-steps{
+	margin-top: -8px;
+}
+.act-bill del{color: #ccc;}
+.act-btn-md-panel .act-btn-md{
+	float: left;
+	height: 40px;
+	line-height: 40px;
+	font-size: 12px;
+}
+/*activity's rules*/
+.pop-rule{padding: 10px 0;}
+.pop-rule ul{
+	padding-left: 1.5em;
+	font-size: 12px;
+}
+.pop-rule .pop-list-main,
+.pop-rule .pop-list-main > li{
+	list-style-type: decimal;
+}
+.pop-rule .pop-list-sub,
+.pop-rule .pop-list-sub > li{
+	list-style-type: disc;
+}
+.pop-rule .pop-list-main > li{
+	margin-bottom: 4px;
+	line-height: 16px;
+}
+.pop-rule .pop-list-sub > li{
+	margin-bottom: 2px;
+}
+@media screen and (max-width:349px) {
+	.price-list .act-price{
+		bottom: 4px;
+	}	
+}

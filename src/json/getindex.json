@@ -1,0 +1,184 @@
+{
+    "success": true,
+    "result": {
+        "homeAdvertise": [
+            {
+                "id": "228c9e67-3779-4d40-b4f6-a54d018aaae1",
+                "title": "选择要买车",
+                "picUrl": "/upload/image/original/201511/112356523985.jpg",
+                "linkUrl": "http://m.yaomaiche.com/Activity/strategy"
+            },
+            {
+                "id": "9f4c7767-b760-4b65-84d4-a54d013c30c4",
+                "title": "双11感恩回馈",
+                "picUrl": "/upload/image/original/201511/111911091922.jpg",
+                "linkUrl": "http://m.yaomaiche.com/Activity/double11thanksgiving.html"
+            }
+        ],
+        "hotCarGoodsList": [
+            {
+                "carGoodsId": "3fe45b37-9608-470d-827d-a51e0109b844",
+                "seriesNameId": "142b619f-4495-4dcb-a117-e8448ee05a7a",
+                "seriesName": "宝马5系",
+                "title": "5系 2014款 525Li 豪华设计套装 矿石白 摩卡色",
+                "officialPrice": 499600,
+                "marketlPrice": 439100,
+                "ymcPrice": 398800,
+                "picURL": "/upload/image/original/carGoods/1e5d7f1b-bd43-4e4e-acef-64fd04200659.png",
+                "brandId": "76f4f7c2-ca27-44c9-82ee-a4ed00ecd300",
+                "brandName": "宝马"
+            },
+            {
+                "carGoodsId": "27530306-6b7e-4df6-96fd-a51e01099db4",
+                "seriesNameId": "cb164ef7-6873-489b-81d8-0e6024c26d72",
+                "seriesName": "迈腾",
+                "title": "迈腾 2015款 1.8TSI 领先型 幻影黑 黑色",
+                "officialPrice": 219800,
+                "marketlPrice": 196800,
+                "ymcPrice": 183000,
+                "picURL": "/upload/image/original/carGoods/ed661d95-7e98-451d-b0bd-1bea036dfb5c.png",
+                "brandId": "525d2826-3ca4-43ac-9e5f-a4ed00ecd300",
+                "brandName": "大众"
+            },
+            {
+                "carGoodsId": "62af3b2a-652a-445c-9b2a-008fc3e161c6",
+                "seriesNameId": "5812e926-c671-43a6-a3f8-413bf55683be",
+                "seriesName": "一汽丰田RAV4",
+                "title": "RAV4 2015款 2.0L CVT两驱风尚版 深棕云母金属色 黑色",
+                "officialPrice": 199800,
+                "marketlPrice": 177750,
+                "ymcPrice": 159300,
+                "picURL": "/upload/image/original/carGoods/bd01d8c2-fb3f-47a4-83bc-c27745317ca8.png",
+                "brandId": "c4662b2d-5fd5-49ff-96d8-a4ed00ecd301",
+                "brandName": "丰田"
+            }
+        ],
+        "newCarGoodsList": [
+            {
+                "carGoodsId": "e5cdb3c9-8c86-46ce-83c3-598f9b654d9d",
+                "seriesNameId": "e9106073-fe63-4a02-a599-5bfc5a3d64c6",
+                "seriesName": "奥迪Q5",
+                "title": "Q5 2016款 40 TFSI 舒适型 柚木棕 黑色/棕色",
+                "officialPrice": 479000,
+                "marketlPrice": 439500,
+                "ymcPrice": 432900,
+                "picURL": "/upload/image/original/201510/311421178351.png",
+                "brandId": "2a88eafe-b977-48a7-af58-a4ed00ecd300",
+                "brandName": "奥迪"
+            },
+            {
+                "carGoodsId": "e624711d-c5a5-4e5f-aaac-c3e4ea770274",
+                "seriesNameId": "f776d59e-2731-4125-b06a-c53e2a3b99e7",
+                "seriesName": "迈锐宝",
+                "title": "迈锐宝 2014款 2.0L 自动豪华版 皓沙白 黑色/米色",
+                "officialPrice": 186900,
+                "marketlPrice": 164400,
+                "ymcPrice": 141900,
+                "picURL": "/upload/image/original/201511/061145332663.png",
+                "brandId": "f1081335-9341-4a8c-844c-a4ed00ecd300",
+                "brandName": "雪佛兰"
+            },
+            {
+                "carGoodsId": "be658785-02c8-442c-8f6d-a51e0109ef81",
+                "seriesNameId": "e3f437cb-602d-4bd0-8491-f84c1bccfed8",
+                "seriesName": "天籁",
+                "title": "天籁 2013款 2.0L XL舒适版 珠光白 黑",
+                "officialPrice": 185800,
+                "marketlPrice": 166700,
+                "ymcPrice": 140800,
+                "picURL": "/upload/image/original/carGoods/7984a5ac-78be-496d-9799-d22d1c20c5a4.png",
+                "brandId": "a0b504dd-4b1e-450f-9e11-a4ed00ecd300",
+                "brandName": "日产"
+            },
+            {
+                "carGoodsId": "e6a4324d-5b87-4b79-ac8a-a51e0109ff30",
+                "seriesNameId": "26ac3da9-b083-4d79-9ebd-9b695cf6cfd4",
+                "seriesName": "翼虎",
+                "title": "翼虎 2015款 1.5L GTDi 四驱精英型 琥珀金 黑色",
+                "officialPrice": 239800,
+                "marketlPrice": 221800,
+                "ymcPrice": 201800,
+                "picURL": "/upload/image/original/carGoods/c416f22e-3725-4a2f-8a89-5f00804ba685.png",
+                "brandId": "9c6a5e6e-8c55-4efd-af87-a4ed00ecd300",
+                "brandName": "福特"
+            },
+            {
+                "carGoodsId": "ec76e91d-f408-454b-8cbf-34d84bbad4b0",
+                "seriesNameId": "bb3f3313-2b75-447c-be24-044471d496db",
+                "seriesName": "远景",
+                "title": "远景 2015款 1.5L 手动精英型 冰晶白 黑色/灰色加装倒车视频影像和导航",
+                "officialPrice": 57900,
+                "marketlPrice": 54950,
+                "ymcPrice": 52900,
+                "picURL": "/upload/image/original/201510/291721509337.png",
+                "brandId": "c1794665-6481-4041-8e03-a4ed00ecd300",
+                "brandName": "吉利汽车"
+            }
+        ],
+        "brandList": [
+            {
+                "id": "2a88eafe-b977-48a7-af58-a4ed00ecd300",
+                "carBrandName": "奥迪",
+                "carBrandLogoUrl": "/upload/image/original/201508/171340516914.png",
+                "carBrandFirstLetter": "A"
+            },
+            {
+                "id": "76f4f7c2-ca27-44c9-82ee-a4ed00ecd300",
+                "carBrandName": "宝马",
+                "carBrandLogoUrl": "/upload/image/original/201510/222109576440.png",
+                "carBrandFirstLetter": "B"
+            },
+            {
+                "id": "525d2826-3ca4-43ac-9e5f-a4ed00ecd300",
+                "carBrandName": "大众",
+                "carBrandLogoUrl": "/upload/image/original/201508/171345239098.png",
+                "carBrandFirstLetter": "D"
+            },
+            {
+                "id": "ea760643-6c00-4327-b913-a4ed00ecd300",
+                "carBrandName": "别克",
+                "carBrandLogoUrl": "/upload/image/original/201508/171342194020.png",
+                "carBrandFirstLetter": "B"
+            },
+            {
+                "id": "c4662b2d-5fd5-49ff-96d8-a4ed00ecd301",
+                "carBrandName": "丰田",
+                "carBrandLogoUrl": "/upload/image/original/201508/171343355492.png",
+                "carBrandFirstLetter": "F"
+            },
+            {
+                "id": "9c6a5e6e-8c55-4efd-af87-a4ed00ecd300",
+                "carBrandName": "福特",
+                "carBrandLogoUrl": "/upload/image/original/201508/171343191447.png",
+                "carBrandFirstLetter": "F"
+            },
+            {
+                "id": "f1081335-9341-4a8c-844c-a4ed00ecd300",
+                "carBrandName": "雪佛兰",
+                "carBrandLogoUrl": "/upload/image/original/201508/171346171872.png",
+                "carBrandFirstLetter": "X"
+            },
+            {
+                "id": "5926a54f-3cee-414f-93b3-a4ed00ecd300",
+                "carBrandName": "起亚",
+                "carBrandLogoUrl": "/upload/image/original/201508/171344449083.png",
+                "carBrandFirstLetter": "Q"
+            },
+            {
+                "id": "53086800-aca0-49e6-a8ec-a4ed00ecd300",
+                "carBrandName": "现代",
+                "carBrandLogoUrl": "/upload/image/original/201508/171346035511.png",
+                "carBrandFirstLetter": "X"
+            },
+            {
+                "id": "d76f2674-e1f5-4462-9438-a4ed00ecd300",
+                "carBrandName": "标致",
+                "carBrandLogoUrl": "/upload/image/original/201508/201503529815.png",
+                "carBrandFirstLetter": "B"
+            }
+        ],
+        "groupPurchaseHomePageList": []
+    },
+    "error": null,
+    "unAuthorizedRequest": false
+}

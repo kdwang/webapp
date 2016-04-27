@@ -1,0 +1,471 @@
+.vordertrack .mainautow {
+    width: 100% !important
+}
+
+.vordertrack .mainnofooter {
+    width: 100% !important;
+    padding: 0 !important;
+}
+
+
+.vordertrack .aff {
+    width:100%;
+    height: 15px;
+    border-top: 1px solid #f1f1f1;
+    position: absolute;
+    left: 0;
+    bottom: -15px;
+    z-index: 1;
+}
+
+.vordertrack .tab_styleB {
+    overflow: hidden;
+    background: #ededed;
+    font-size: 14px;
+    padding: 10px 10px 0;
+    white-space: nowrap;
+    position: relative;
+    z-index: 3;
+}
+
+.vordertrack .tab_styleB a {
+    display: inline-block;
+    position: relative;
+    height: 45px;
+    line-height: 45px;
+    border: 1px solid #f1f1f1;
+    border-bottom: 0 none;
+    font-size: 14px;
+    background: #f8f8f8;
+    white-space: nowrap;
+    padding: 0 15px;
+    margin: 0 10px 0 0;
+    border-radius: 5px 5px 0 0;
+    color: #585858;
+}
+
+.vordertrack .tab_styleB a.current {
+    background: #fff none repeat scroll 0 0;
+    border-bottom: 1px solid #fff;
+    color: #fe9844;
+}
+
+.vordertrack .orderF {
+    position: relative;
+    z-index: 1;
+    padding-bottom:50px;
+    background-color: #FFF;
+}
+
+.vordertrack .orderF .dec li {
+    min-height: 22px;
+    line-height: 22px;
+    padding: 15px 30px 15px 10px;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.vordertrack .orderF .stepTabs {
+    padding: 0 10px;
+    width: 100%;
+    border-bottom: 1px solid #f1f1f1;
+}
+
+.vordertrack .orderF .stepTabs a {
+    text-align: center;
+    color: #595959;
+    display: block;
+    float: left;
+    height: 40px;
+    line-height: 40px;
+    width: 25%;
+    padding: 5px 0;
+}
+
+.vordertrack .orderF .stepTabs a.active {
+    color: #ff9845;
+    border-bottom: 2px solid #ff9845;
+}
+
+.vordertrack .orderF .content-slide {
+    margin: 10px 10px
+}
+
+.vordertrack .flow_list li {
+    height: 40px;
+    line-height: 40px;
+    position: relative;
+    padding-left: 35px;
+    color: #808080;
+    font-size: 14px;
+}
+
+.vordertrack .flow_list li:before {
+    content: "";
+    display: block;
+    width: 10px;
+    height: 10px;
+    border-radius: 50%;
+    background: #b3b3b3;
+    position: absolute;
+    left: 15px;
+    top: 15px;
+}
+
+.vordertrack .flow_list li:after {
+    content: "";
+    display: block;
+    height: 38px;
+    border-left: 1px solid #b3b3b3;
+    position: absolute;
+    left: 19px;
+    top: -15px;
+}
+
+.vordertrack .flow_list li.first:after {
+    display: none;
+}
+
+.vordertrack .flow_list li.now {
+    color: #262626;
+}
+
+.vordertrack .flow_list li.now:before {
+    background: #fe9844;
+}
+
+.vordertrack .flow_list li.now:after {
+    border-color: #fe9844;
+}
+/*======= contact us=======*/
+
+.vordertrack .g-underline {
+    text-decoration: underline;
+}
+/*g color*/
+
+.vordertrack .g-color {
+    color: #727272;
+}
+
+.vordertrack .g-color2 {
+    color: #595c5b
+}
+
+.vordertrack .g-color3 {
+    color: #f3c637
+}
+
+.vordertrack .g-color4 {
+    color: #8ccdca
+}
+
+.vordertrack .g-color5 {
+    color: #dc9c40
+}
+
+.vordertrack .g-color6 {
+    color: #EC6A1A
+}
+
+.vordertrack .g-color7 {
+    color: #F08B42
+}
+
+.vordertrack .g-color8 {
+    color: #1DB295
+}
+/*g icon*/
+
+/*.vordertrack .c-icon { 此样式貌似没用
+    vertical-align: middle;
+    display: inline-block;
+    background: url(../imgs/contact.png) no-repeat;
+    background-size: 27px 238px;
+}*/
+
+.vordertrack .icon-zb {
+    background-position: 0 0
+}
+
+.vordertrack .icon-map {
+    background-position: 0 -35px
+}
+
+.vordertrack .icon-code {
+    background-position: 0 -71px
+}
+
+.vordertrack .icon-tel {
+    background-position: 0 -112px
+}
+
+.vordertrack .icon-car {
+    background-position: 0 -143px
+}
+
+.vordertrack .icon-mail {
+    background-position: 0 -176px
+}
+
+.vordertrack .icon-tel2 {
+    background-position: 0 -213px
+}
+/*Star Contact us*/
+
+.vordertrack .c-contact {
+    font-size: 19px;
+    position: relative;
+    padding-bottom: 200px;
+}
+
+.vordertrack .c-contact .c-icon {
+    width: 27px;
+    height: 25px;
+    margin-right: 10px
+}
+
+.vordertrack .c-contact li {
+    padding: 10px 12px;
+}
+
+.vordertrack .c-contact li:nth-of-type(odd) {
+    background-color: #f3f3f3;
+}
+
+.vordertrack .c-contact li:nth-of-type(even) {
+    background-color: #fef9eb;
+    border-top: 3px solid #fff;
+    border-bottom: 3px solid #fff;
+}
+
+/*.vordertrack .contact-bg {
+    width: 242px;
+    height: 237px;
+    position: absolute;
+    bottom: 48px;
+    right: 0;
+    background: url(../imgs/contact-bg.png) no-repeat;
+    background-size: 242px 237px;
+}*/
+/*======= Star ep-culture=======*/
+
+.vordertrack .ep-culture img,
+.vordertrack .about_pay_desc img {
+    display: block;
+    margin: 0 auto
+}
+/*======= Star after-service=======*/
+
+.vordertrack .afs-pd {
+    padding-top: 50px;
+}
+
+.vordertrack .afs-pd2 {
+    padding: 20px 0 10px;
+}
+
+.vordertrack .after-service h2 {
+    color: #309d7d;
+    font-size: 19px;
+}
+
+.vordertrack .after-service .table thead td {
+    color: #23b6b2;
+    font-size: 19px;
+    background-color: #e2e6ea;
+    text-align: center;
+    padding: 5px 0
+}
+
+.vordertrack .after-service .table {
+    width: 100%;
+    background-color: #f1f9f7;
+}
+
+.vordertrack .after-service .table tbody th {
+    text-align: center;
+    font-weight: normal;
+    padding: 5px;
+}
+
+.vordertrack .after-service .table tbody td {
+    border: 1px dashed #b9dfe2;
+    border-width: 0 1px 1px 0;
+    padding: 10px;
+}
+
+.vordertrack .after-service .table tbody td:nth-of-type(4n+1),
+.vordertrack .after-service .table tbody td:nth-of-type(4n+2) {
+    text-align: center;
+}
+
+.vordertrack .after-service .table tbody td:nth-of-type(4n+4) {
+    border-right: 0
+}
+
+.vordertrack .afs-bg1 {
+    background-color: #c5c6bc;
+    color: #5b8398
+}
+
+.vordertrack .afs-bg2 {
+    background-color: #6fa4a6;
+    color: #fff
+}
+
+.vordertrack .afs-bg3 {
+    background-color: #cadcda;
+    color: #5b8398
+}
+
+.vordertrack .afs-bg4 {
+    color: #8fbfb4
+}
+/*======= Star after-service=======*/
+
+/*.vordertrack .join-us .join-icon {
+    width: 34px;
+    height: 28px;
+    position: absolute;
+    left: -40px;
+    background: url(../imgs/join-us.png) left 2px no-repeat;
+    background-size: 34px 28px
+}*/
+
+.vordertrack .join-us h2 {
+    font-size: 18px;
+    color: #4cbaa9;
+    position: relative;
+}
+
+.vordertrack .join-us li:nth-of-type(1) {
+    padding-top: 50px;
+    border-top: 0
+}
+
+.vordertrack .join-us li {
+    padding: 20px 40px 10px;
+    border-top: 1px dashed #b9dfe2;
+}
+
+.vordertrack .join-us h3 {
+    font-size: 16px;
+    color: #e94950;
+    padding: 5px 0
+}
+/*Star Animation*/
+
+
+/*
+.vordertrack .qa_list .q_desc {
+    color: #F5C21B;
+    font-size: 20px;
+    padding: 5px 24px;
+    padding-left: 70px;
+    background: url(../imgs/ai_icon.png) no-repeat;
+    background-size: auto 80%;
+    background-position: 25px center;
+}*/
+
+.vordertrack .qa_list .a_desc {
+    color: #68665E;
+    font-size: 18px;
+    padding: 5px 24px;
+    background: #edf5f9;
+}
+
+/*.vordertrack .about_us_panel { 貌似没用到
+    background: url(../imgs/about_bg.png) no-repeat;
+    background-size: 100% auto;
+    background-position: left bottom;
+}*/
+
+.vordertrack .about_us_desc {
+    color: #434343;
+    padding: 25px;
+    padding-bottom: 250px;
+    font-size: 24px;
+}
+
+.vordertrack .about_us_desc p {
+    text-indent: 2em;
+}
+
+/*.vordertrack .about_us_mail {
+    background: url(../imgs/aboutmail.png) no-repeat;
+    margin-top: 20px;
+    padding-left: 70px;
+    background-size: auto 60%;
+    background-position: 25px center;
+    color: #6BC6D6;
+    height: 40px;
+    line-height: 40px;
+    text-indent: 0;
+    display: inline-block;
+}*/
+
+/*.vordertrack .about_us_weixin {
+    background: url(../imgs/aboutweixin.png) no-repeat;
+    margin-top: 15px;
+    padding-left: 70px;
+    background-size: auto 80%;
+    background-position: 25px center;
+    color: #6BC6D6;
+    height: 40px;
+    line-height: 40px;
+    text-indent: 0;
+    display: inline-block;
+}*/
+
+.vordertrack .agreement_desc p {
+    text-indent: 2em;
+    padding: 10px 25px;
+    font-size: 24px;
+}
+
+.vordertrack .agreement_desc .blue {
+    color: #00bac6;
+}
+
+.vordertrack .about_pay {
+    padding: 25px;
+}
+
+/*.vordertrack .about_pay_tags {
+    background: url(../imgs/help_buytabs.png) no-repeat;
+    background-size: 258px 105px;
+    height: 32px;
+}*/
+
+.vordertrack .about_pay_tags .about_pay_tag {
+    float: left;
+    width: 82px;
+    height: 32px;
+}
+
+.vordertrack .about_pay_tags_sp1 {
+    background-position: left -69px;
+}
+
+.vordertrack .about_pay_tags_sp2 {
+    background-position: left 0;
+}
+
+.vordertrack .about_pay_tags_sp3 {
+    background-position: left -36px;
+}
+
+.vordertrack .about_pay_desc {
+    background: #ebf2cb;
+}
+
+.vordertrack .about_pay_desc p {
+    padding: 10px 0;
+    font-size: 20px;
+}
+
+.vordertrack .dot_line {
+    height: 0;
+    border: 0;
+    border-bottom: 1px dashed #87bbb5;
+}

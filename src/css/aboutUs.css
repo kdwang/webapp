@@ -1,0 +1,36 @@
+.vaboutUs .aboutUs {
+    padding: 10px 10px 30px;
+    color:#585959;
+}
+.vaboutUs .aboutUs p{
+    line-height: 22px;
+    margin-bottom: 25px;
+}
+.vaboutUs .aboutUs p b{
+	color:#ff9845;
+}
+.vaboutUs .aboutUs .conType a{
+	display: block;
+	padding-left:30px;
+	color:#ff9845;
+	height: 24px;
+	line-height: 24px;
+	position: relative;
+}
+.vaboutUs .aboutUs .conType a:before{
+	display: block;
+	position: absolute;
+	content: "";
+	width:30px;
+	height: 30px;
+	left:0;
+	top:0;
+	background:url("../imgs/helpCenter.png") no-repeat 0 0;
+	background-size:175px 209px;
+}
+.vaboutUs .aboutUs .conType a:nth-child(1):before{
+	background-position:0 -56px;
+}
+.vaboutUs .aboutUs .conType a:nth-child(2):before{
+	background-position:0 -93px;
+}

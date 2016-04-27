@@ -1,0 +1,46 @@
+		''                        : {'name':'首页', 'id':'home'},
+		'index'                   : {'name':'首页', 'id':'home'},
+		'product'                 : {'name':'商品详情', 'id':'product'},
+		'myBuyCar'                : {'name':'我的方案', 'id':'myBuyCar'},
+		'comment'                 : {'name':'评论', 'id':'comment'},
+
+		'insurance'               : {'name':'车险方案', 'id':'insurance'},
+		'loan'                    : {'name':'购车付款方式', 'id':'loan'},
+		'service'                 : {'name':'尊享服务','id':'service'},
+		'checkout'                : {'name':'订单支付','id':'checkout'},
+		'orderDetail'             : {'name':'订单详情','id':'orderDetail'},
+		'paySuccess'              : {'name':'支付成功','id':'paySuccess'},
+		'orderTrack'              : {'name':'订单跟踪','id':'orderTrack'},
+		'orderTrackN'             : {'name':'订单跟踪失败','id':'orderTrackN'},
+
+		'purchase_intent'         : {'name':'购车意向','id':'purchase_intent'},
+		'brandList'               : {'name':'品牌列表','id':'brandList'},
+		'car-series-list'         : {'name':' 车系列表','id':'car-series-list'},
+		'car-model-list'          : {'name':'车款列表','id':'car-model-list'},
+		'car-model-detail'        : {'name':'车型详情','id':'car-model-detail'},
+		'specarSuccess'           : {'name':'预定成功','id':'specarSuccess'},
+
+		'selected_package'        : {'name': '套餐 - 精品套餐方案', 'id': 'selected_package'},
+		'selected_package-list'   : {'name': '套餐 - 精品商品库', 'id': 'selected_package-list'},
+		'selected_package-detail' : {'name': '套餐 - 精品商品详情页', 'id': 'selected_package-detail'},
+
+		'tuan'                    : {'name':'团购列表','id':'tuan'},
+		'grouppaysuccess'         : {'name':'团购列表','id':'grouppaysuccess'},
+
+		//个人中心
+		'user-info-improve1'      : {'name': '完善信息1', 'id': 'user-info-improve1'},
+		'user-info-improve2'      : {'name': '完善信息2', 'id': 'user-info-improve2'},
+		'user-info-improve3'      : {'name': '完善信息3', 'id': 'user-info-improve3'},
+		'user-info-improve4'      : {'name': '完善信息4', 'id': 'user-info-improve4'},
+		'user-info-improve5'      : {'name': '完善信息5', 'id': 'user-info-improve5'},
+		'user-info-improve6'      : {'name': '完善信息6', 'id': 'user-info-improve6'},
+		'user-info'               : {'name': '个人资料', 'id': 'user-info'},
+
+		//登陆注册
+		'_reg'                    : {'name': '注册', 'id': '_reg'},
+		'_login'                  : {'name': '登录1', 'id': '_login'},
+		'_smslogin'               : {'name': '登录2', 'id': '_smslogin'},
+		'_lose'                   : {'name': '找回密码', 'id': '_lose'},
+		'_reset'                  : {'name': '重置密码', 'id': '_reset'}
+
+	
